@@ -1,5 +1,5 @@
 ### Fall 2023
-## RAM205 
+## RAM205
 ### Session Recordings
 
 - [8/29/2023]()
