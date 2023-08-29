@@ -15,7 +15,7 @@ layout: default
     - SD card/OS required 
       - version - must be from Spring 2023
       - updated SD card required?
-        - Pick up new SD card from my mailbox
+        - Pick up new SD card from my makerspace. See plastic cards hanging in RAM cage.
         - Leave old SD card
         - default password is **yahboom**
     - [Configure and Connect](piRoverConfigure/ConfiguringTheRaspberryPi.pdf){:target="_blank"}
@@ -28,6 +28,17 @@ layout: default
 - Wi-Fi configuration - review
 - VS Code - review
 - [Python Language and Programming](python/PythonIntroduction.pdf){:target="_blank"}
+- Video recording using Zoom - testing!
+  - leave class Zoom session
+  - be sure you are logged into your Zoom account (NMC email)
+  - open "My Personal Meeting"
+  - share your screen
+  - record to cloud
+  - say "hello" and end meeting
+  - open recordings
+  - copy shared link
+  - return to course Zoom
+  - paste link in chat
     
 **Session 2**
 
