@@ -42,35 +42,40 @@ layout: default
     
 **Session 2**
 
-<!--
-- [Stack Overflow 2022 Developer Survey](https://survey.stackoverflow.co/2022/){:target="_blank"}
+- Status of Zoom recording?
+- My test
+    - [Cloud](https://nmc.zoom.us/rec/share/I4ShWrBzOjkhI3jkezkxjaTdRP2mMCBPTZGiXYNcgK2VGnnm2mOap-ZEjQpyJW2l.R6VNTtZ8UBXHd9UD)
+    - [local](video2282558214.mp4)
+- [Stack Overflow 2023 Developer Survey](https://survey.stackoverflow.co/2023/){:target="_blank"}
 - [Michigan's Hot 50](https://www.milmi.org/_docs/publications/Hot50_Statewide_2030.pdf){:target="_blank"}
 - Demo: Python on workstation
   - [https://www.python.org/downloads/](https://www.python.org/downloads/){:target="_blank"}
   - [VS Code installation on workstation](https://code.visualstudio.com/Download){:target="_blank"}
   - Create workspace (folder/directory)
-  - Demo: VS Code edit and debug
-    - wget -O guessing_game.py https://k2controls.github.io/RAM205/sprint1/week01/guessing_game.py
-    - breakpoints
-    - debug (F5)
-    - step into (F11)
-    - step over (F10)
-    - Go to definition (F12)
+    - RAM205
   - Demo: Python on Raspberry Pi
     - python --version
     - python3 --version
     - rm -r temp
     - mkdir temp
     - [User Blink](python/user_blink.py){:target="_blank"}
-    - wget -O user_blink.py https://k2controls.github.io/RAM205/sprint1/week01/python/user_blink.py
-  
+    - wget -O user_blink.py https://k2controls.github.io/piRover02/sprint1/week01/python/user_blink.py
+    - python3 user_blink.py
+  - Demo: VS Code edit and debug
+    - wget -O guessing_game.py https://k2controls.github.io/RAM205/sprint1/week01/guessing_game.py
+    - breakpoints
+    - debug (F5)
+    - step into (F11)
+    - step over (F10)
+    - Go to definition (F12)  
 - Circuit Analysis - A review
   - Voltage, Current, Resistance
   - Power
   - Series and Parallel
   - KVL and KCL
-- Power transmission concepts
--->
+  - Meter use
+  - Power transmission concepts
+
 
 ---
 
