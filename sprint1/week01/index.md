@@ -62,7 +62,7 @@ layout: default
     - wget -O user_blink.py https://k2controls.github.io/piRover02/sprint1/week01/python/user_blink.py
     - python3 user_blink.py
   - Demo: VS Code edit and debug
-    - wget -O guessing_game.py https://k2controls.github.io/RAM205/sprint1/week01/guessing_game.py
+    - wget -O guessing_game.py https://k2controls.github.io/piRover02/sprint1/week01/guessing_game.py
     - breakpoints
     - debug (F5)
     - step into (F11)
