@@ -11,7 +11,7 @@ layout: default
     - [Voltage regulation](https://youtu.be/D52xUrIDrZY){:target="_blank"}
         - Rapberry PI power supply
             - Expansion board manual 
-            - [bst-4wd V4.2.pdf](power_source/bst-4wd%20V4.2.pdf){:target="_blank"}
+            - [bst-4wd V4.2.pdf](bst-4wd%20V4.2.pdf){:target="_blank"}
             - Battery connection S3 and S4
             - VM
             - VCC
