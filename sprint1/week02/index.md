@@ -19,7 +19,7 @@ layout: default
             - MVCC - 3.3V/5V
     - [Yahboom battery](images/Yahboom_power_supply_spec1.jpg){:target="_blank"}
     - [Yahboom battery specification](battery_spec.md){:target="_blank"}
-- Activity: [Power Sources - Introduction](RAM205.PowerSources.docx)
+- Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx)
 
 
 
