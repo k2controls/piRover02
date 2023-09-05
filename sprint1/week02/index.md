@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+## RAM 205 - Robotics and Automation
+
+### [RAM205](../../) - [Sprint 1](../) - Week 2
+
+**Session 1**
+- DC Power Sources
+    - [Voltage regulation](https://youtu.be/D52xUrIDrZY){:target="_blank"}
+        - Rapberry PI power supply
+            - Expansion board manual 
+            - [bst-4wd V4.2.pdf](power_source/bst-4wd%20V4.2.pdf){:target="_blank"}
+            - Battery connection S3 and S4
+            - VM
+            - VCC
+            - U10 3.3V
+            - MVCC - 3.3V/5V
+    - [Yahboom battery specification](images/Yahboom_power_supply_spec1.jpg){:target="_blank"}
+
+- Activity: [Power Sources - Introduction](RAM205.PowerSources.docx)
+
+
+
+
+**Session 2**
+
+
+<!-- - Power Sources/Supplies
+    - Yahboom G1 Tank - power distribution
+        - Supplies
+            - battery
+                - Battery Charging - see manual
+                    - Use "Download Zip" button on page to access GitHub repository (repo)
+                - Similar on Amazon
+                    - [11.1V 2600mAh 3 Cell Lithium ion 18650 28.86Wh Rechange Battery Pack](https://www.amazon.com/dp/B08D2379MJ/ref=cm_sw_em_r_mt_dp_VEKNFQZZSG2D2EGG01YA){:target="_blank"}
+                - Based on Yahboom spec and Amazon assumption, what is the current load of the system?
+                - Inspect the battery charger. What is the current specification?
+                - Does the charge time indicated in the Yahboom spec match your calculation?
+
+
+
+    - [Power Sources](power_source/RAM205.PowerSources.pdf){:target="_blank"}
+        - Ideal supply
+        - Real supply
+        - Voltmeter, ammeter review
+        - [UNI-T Multimeter documentation](power_source/UNI-T_documentation.pdf){:target="_blank"}
+        - Battery testing using your DVM
+
+    - ** Fully charged battery required for testing during next session ***
+    - Toolbox and phone (camera) required
+
+- Session 2
+
+    - Review [Parts Kit BoM](../../resources/2022.06.RAM_BOM_PRICING.pdf){:target="_blank"}
+    - [Power Sources](power_source/RAM205.PowerSources.pdf){:target="_blank"}
+        - Circuit and meter review
+        - Test setup
+        - VT, VL, and IL measurements
+        - Results discussion
+        - Raspberry Pi and controller as load
+        - Motor drive as load?
+    - Raspberry Pi configure and connect - see Week 1
+    - piRover Hardware Review
+        - [Yahboom Manual](https://github.com/YahboomTechnology/Raspberry-Pi-G1-Tank)
+            - 4WD expansion board manual.pdf
+    - GPIO Outputs - review
+        - Basic drive code
+    - Battery test with drive load
+    - Power supply test with drive load -->
+
+---
+
+### Assignments (submit in zip, see main Moodle page)
+
+- PE1: Module 1 Quiz (screen capture)
+- Power Source Introduction document with required measurements and observations.
+
+
+<!--     
+    **Assignment**
+        - Create a *RAM205_week02* video
+        - Submit the video either as a link or as an attachement to the Week 01 assignment link.
+        - Demonstrate testing AA batteries using the multimeter
+            - Show battery voltage of both using a DC voltage setting. Describe the load that the meter represents during this test. How much current is flowing from the battery?
+            - Show battery testing using the multimeter's 1.5 volt battery test setting. Create a table showing the battery ID, the battery terminal voltage, the status of the battery, and the load current based on the multimeter input impedence (resistance).
+        - Be prepared to ask clarifying questions at the start of Session 2 -->
