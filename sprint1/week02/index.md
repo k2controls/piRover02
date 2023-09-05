@@ -75,8 +75,9 @@ layout: default
 ### Assignments (submit in zip, see main Moodle page)
 
 - PE1: Module 1 Quiz (screen capture)
-- Power Source Introduction document with required measurements and observations.
-
+- **Power Source - Introduction**
+    - document with required measurements and observations.
+    - photo/image of test setup.
 
 <!--     
     **Assignment**
