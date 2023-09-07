@@ -55,7 +55,7 @@ layout: default
 
 - PE1: Module 1 Quiz (screen capture)
 - **Power Source - Introduction**
-    - document with required measurements and observations.
+    - document with AA batteries ID and associated measurements and observations.
     - photo/image of test setup.
 - Battery test video and data due next week
 
