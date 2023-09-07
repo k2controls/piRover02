@@ -26,49 +26,28 @@ layout: default
 
 **Session 2**
 
-
-<!-- - Power Sources/Supplies
-    - Yahboom G1 Tank - power distribution
-        - Supplies
-            - battery
-                - Battery Charging - see manual
-                    - Use "Download Zip" button on page to access GitHub repository (repo)
-                - Similar on Amazon
-                    - [11.1V 2600mAh 3 Cell Lithium ion 18650 28.86Wh Rechange Battery Pack](https://www.amazon.com/dp/B08D2379MJ/ref=cm_sw_em_r_mt_dp_VEKNFQZZSG2D2EGG01YA){:target="_blank"}
+- Power Sources/Supplies
+    - Yahboom G1 Tank - power distribution - review from Session 1
+        - battery
+            - Battery Charging - see manual
+            - Similar on Amazon
+                - [11.1V 2600mAh 3 Cell Lithium ion 18650 28.86Wh Rechange Battery Pack](https://www.amazon.com/dp/B08D2379MJ/ref=cm_sw_em_r_mt_dp_VEKNFQZZSG2D2EGG01YA){:target="_blank"}
+                - [Yahboom battery](images/Yahboom_power_supply_spec1.jpg){:target="_blank"}
+                - [2600mAh 3 Cell Lithium specification ](battery_spec.md){:target="_blank"}
                 - Based on Yahboom spec and Amazon assumption, what is the current load of the system?
                 - Inspect the battery charger. What is the current specification?
                 - Does the charge time indicated in the Yahboom spec match your calculation?
+    - [Comparison between internal resistance and capacity test](internalRvsCapacityTest.pdf){:target="_blank"}
+    - [Internal resistance of a voltage source](intresbeam.pdf){:target="_blank"}
+    - [Power Sources](RAM205.PowerSources.pdf){:target="_blank"}
+        - Battery test - RPi as load
+            -Circuit and meter review
+            - Test setup
+            - VT, VL, and IL measurements
+            - Results discussion
+        - Motor drive as load
+            - Create basic drive code
 
-
-
-    - [Power Sources](power_source/RAM205.PowerSources.pdf){:target="_blank"}
-        - Ideal supply
-        - Real supply
-        - Voltmeter, ammeter review
-        - [UNI-T Multimeter documentation](power_source/UNI-T_documentation.pdf){:target="_blank"}
-        - Battery testing using your DVM
-
-    - ** Fully charged battery required for testing during next session ***
-    - Toolbox and phone (camera) required
-
-- Session 2
-
-    - Review [Parts Kit BoM](../../resources/2022.06.RAM_BOM_PRICING.pdf){:target="_blank"}
-    - [Power Sources](power_source/RAM205.PowerSources.pdf){:target="_blank"}
-        - Circuit and meter review
-        - Test setup
-        - VT, VL, and IL measurements
-        - Results discussion
-        - Raspberry Pi and controller as load
-        - Motor drive as load?
-    - Raspberry Pi configure and connect - see Week 1
-    - piRover Hardware Review
-        - [Yahboom Manual](https://github.com/YahboomTechnology/Raspberry-Pi-G1-Tank)
-            - 4WD expansion board manual.pdf
-    - GPIO Outputs - review
-        - Basic drive code
-    - Battery test with drive load
-    - Power supply test with drive load -->
 
 ---
 
@@ -78,6 +57,7 @@ layout: default
 - **Power Source - Introduction**
     - document with required measurements and observations.
     - photo/image of test setup.
+- Battery test video and data due next week
 
 <!--     
     **Assignment**
