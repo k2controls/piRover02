@@ -40,5 +40,5 @@ layout: default
     - Introduction: Introduce the activity including Rs and its relationship to battery quality, capacity, and voltage regulation. (see resources)
     - Testing Procedure: Use either the AA battery test or the piRover battery test to outline steps.
     - Test setup: include either an image of your test setup or include the test setup as part of your video.
-    Circuit Analysis: Share an image of the circuit showning Rs as a part of a voltage source. Describe how the value of Rs was determined.
+    Circuit Analysis: Share an image of the circuit showning Rs as a part of a voltage source. Describe how the value of Rs was determined for the **piRover battery**.
     - Summary: Close with a summary of the activity. What did you learn?
