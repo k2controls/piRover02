@@ -13,6 +13,11 @@ layout: default
     - See requirements in *Assignments* below.
   - Module 1 Test due
   - Power Sources - Test 2 and Test 3
+    - circuit review
+    - setup review
+    - drive code review
+    - Test 2 - drive as load
+    - Test 3 - AC power source with drive as load
   
 **Session 2**
 
@@ -35,7 +40,7 @@ layout: default
   - screen capture included showing score
   - Test scores are recorded
 - Video presentation (50 points)
-  - The use of Zoom video is recommend so that your computer screen showing diagrams, data, and code can be shared.
+  - The use of Zoom video is recommended so that your computer screen showing diagrams, data, and code can be shared.
   - Requirements: Internal Resistance of a Power Source
     - Introduction: Introduce the activity including Rs and its relationship to battery quality, capacity, and voltage regulation. (see resources)
     - Testing Procedure: Use either the AA battery test or the piRover battery test to outline steps.
