@@ -21,16 +21,29 @@ layout: default
   
 **Session 2**
 
-<!-- 
-
-- Pick up JST connector from Makerspace
 - PE1: Module 1 Quiz Review
-- Review of Power Supply Test 2 process and code
-- Power Supply Test 3 - AC source with drive load
+- Power Supply Test Data
+  - [Class Data Set](power_supply_class_data.pdf){:target="_blank"}
+  
 - Review of class data and conclusions
-- Final Power Supply report due - See rubric 
+- Power Supply video report-out due - 50 points, See rubric/grading below
 
--->
+- Digital Outputs
+  - Switching - high side vs low side 
+    - [High Side and Low Side Switches](https://www.rohm.com/electronics-basics/ipds/high-side-and-low-side-drive){:target="_blank"}
+
+- Rover Mods for Week04
+  - Breadboard
+  - Amber LED and hardware
+  - MOSFET module and hardwar
+  - M-F Servo cable with shield remmove (headers position 4 to breadboard)
+  - F-F Servo cable (header position 5 to MOSFET module)
+  - JST connector to MOSFET Vin,GND
+  - Amber LED to MOSFET V+,V-
+
+- Week04 Lesson Preview with images of required modification
+  - [Preview_RAM205.DigitalOutputs](Preview_RAM205.DigitalOutputs.pdf){:target="_blank"}
+  - [Preview_RAM205.DrivingHighCurrentLoads](Preview_RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"}
 
 ---
 
