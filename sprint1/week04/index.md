@@ -48,9 +48,12 @@ layout: default
 
 ### Assignments
 
-- Digital Outputs - Introduction 
-  - submit .docx or .pdf file
-  - See instructions for summary. Detailed response is required. Discuss high-side and low-side configurations and constraints when driving loads using a GPIO port. 
+- Digital Outputs 
+  - Submit .docx or .pdf file with measurements and detailed summary.
+    - See instructions for summary. 
+    - Detailed response is required. 
+    - Discuss high-side and low-side configurations and constraints when driving loads using a GPIO port. 
+    - Discuss any issues with the procedures.
   - Digital Output - video lab checks
     - Submit video. Be sure to show resistor configuration on breadboard.
 
