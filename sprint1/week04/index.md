@@ -22,27 +22,19 @@ layout: default
  
 **Session 2**
 
-<!--
-  - PE1: Mod 2 - introduction
-      - Switching - high side vs low side 
-       - [An introduction](https://www.baldengineer.com/low-side-vs-high-side-transistor-switch.html){:target="_blank"}
-      - [BJT low side](https://predictabledesigns.com/how-to-switch-large-loads-with-a-microcontroller-using-transistors/){:target="_blank"}{:target="_blank"}
-    
-    - [Digital Outputs - Introduction](RAM205.DigitalOutputs.docx)
-  - [Digital Outputs - Introduction](RAM205.DigitalOutputs.docx) (con't)
-        - Low-side switch of LED issue with +5V source
-        - Use of BJT transistor to resolve
-        - 74__244 line driver to resolve
-        - Voltage divider solution
+- Switching - high side vs low side 
+  - [An introduction](https://www.baldengineer.com/low-side-vs-high-side-transistor-switch.html){:target="_blank"}
+  - [BJT low side](https://predictabledesigns.com/how-to-switch-large-loads-with-a-microcontroller-using-transistors/){:target="_blank"}{:target="_blank"}
+  
+- [Digital Outputs](RAM205.DigitalOutputs.docx) (con't)
+      - Low-side switch of LED issue with +5V source
+      - Use of BJT transistor to resolve
+      - 74__244 line driver to resolve
+      - Voltage divider solution
 
+<!-- 
+- [Digital Outputs - Driving high current loads](RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"} (intro) -->
 
-  - [Digital Outputs - Driving high current loads](RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"} (intro)
-
-
-- No class session next Session 2 (Wednesday or Thursday)
-  - Independent research work
-  - Details provided during Session 1 with report and report out to class the following week.
--->
 
 ---
 
