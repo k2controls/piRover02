@@ -37,6 +37,7 @@ layout: default
 - PE1: Module 2 Quiz
 - piRover Warner Worksheet with voltages
 - Amber LED blink code or Warner1.py
+- Short video of amber blink (Warner1.py)
 - Power and Control research- Complete RAM205.PowerControlResearchResearch document and submit
 - Be prepared to present your findings
   
