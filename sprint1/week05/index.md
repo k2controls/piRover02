@@ -29,14 +29,6 @@ layout: default
   - The instructor will review this activity and discuss examples.
   - Complete the responses and submit with your end of week assignments. Be prepared to discuss your findings. 
 
-<!--
-    - piRover Warner (con't)
-        - warning2.py code review (with buzzer)
-        - Lab check
-        - warning3.py code review (PWM solution)
-        - warning4.py code review (piRover_warner solution)
--->
-    
 ---
 
 ### Assignments
