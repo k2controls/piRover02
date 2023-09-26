@@ -25,9 +25,9 @@ layout: default
 
         
 **Session 2**
-- [Power And Control Research](RAM205.PowerAndControlResearch.docx){:target="_blank"}
+- Sprint 1 capstone activity: [Power And Control Research](RAM205.PowerAndControlResearch.docx){:target="_blank"}
   - The instructor will review this activity and discuss examples.
-  - Complete the responses to the document and submit with your end of week assignments. Be prepared to discuss your findings. 
+  - Complete the responses and submit with your end of week assignments. Be prepared to discuss your findings. 
 
 <!--
     - piRover Warner (con't)
