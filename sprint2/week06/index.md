@@ -48,3 +48,4 @@ layout: default
 - Week 06 video lab check (short)
   - Warner
   - Switch
+  - test
