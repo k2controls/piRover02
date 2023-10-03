@@ -28,8 +28,10 @@ layout: default
 
 **Session 2**
  
-  <!-- - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}
-  - [Analog to Digital](https://www.arrow.com/en/research-and-events/articles/engineering-resource-basics-of-analog-to-digital-converters){:target='_blank'} -->
+<!-- 
+  - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}
+  - [Analog to Digital](https://www.arrow.com/en/research-and-events/articles/engineering-resource-basics-of-analog-to-digital-converters){:target='_blank'} 
+-->
 
 ---
 
@@ -48,4 +50,4 @@ layout: default
 - Week 06 video lab check (short)
   - Warner
   - Switch
-  - test
+
