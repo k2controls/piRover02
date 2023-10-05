@@ -28,10 +28,12 @@ layout: default
 
 **Session 2**
  
-<!-- 
+  - piRover Warner - follow along with the instructor as warner code is created and tested.
+      - warning2.py - pwm
+      - warning3.py - module with start/stop
+
   - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}
-  - [Analog to Digital](https://www.arrow.com/en/research-and-events/articles/engineering-resource-basics-of-analog-to-digital-converters){:target='_blank'} 
--->
+
 
 ---
 
