@@ -8,7 +8,7 @@ layout: default
 
 **Session 1**
 - PE1 Module 3 assigned
-    - [Domain Objectives](../../python_cert/PCEP_ExamDomain.pdf){:target="_blank"}
+    - [Domain Objectives](https://pythoninstitute.org/pcep-exam-syllabus){:target="_blank"}
 - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}
     - piRover_switch.py 
     - piRover_warner.py 
