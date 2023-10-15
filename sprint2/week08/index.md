@@ -32,12 +32,13 @@ layout: default
 - Signal conditioning - continued
 - Introduction to Python classes
 
-    <!-- - RAM 155 Drive Code Review
-        - [bt_test.py](../week08/codeRAM155/bt_test.py)
-        - [piRover_bluetooth.py](../week08/codeRAM155/piRover_bluetooth.py)
-        - [piRover_drive.py](../week08/codeRAM155/piRover_drive.py)
-    - Dog class
-    - LED class - interface planning -->
+<!-- - RAM 155 Drive Code Review
+    - [bt_test.py](../week08/codeRAM155/bt_test.py)
+    - [piRover_bluetooth.py](../week08/codeRAM155/piRover_bluetooth.py)
+    - [piRover_drive.py](../week08/codeRAM155/piRover_drive.py)
+- Dog class
+- LED class - interface planning 
+-->
 
 
 ---
