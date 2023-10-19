@@ -43,7 +43,7 @@ layout: default
     - Review your RAM155 piRover solution (~/piRover/workingP03)
     - Locate your piRover_led.py module
     - Identify the properties and methods for a single LED
-    - Edit [this text document](LED.txt) and list.
+    - Edit [this text document](LED.txt){:target="_blank"} and list.
     - Are there other methods that we should include in our class?
     - Be sure to include any required or optional parameters when defining LED methods.
 
