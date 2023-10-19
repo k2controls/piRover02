@@ -33,14 +33,12 @@ layout: default
 **Session 2**
 - Signal conditioning - continued
 - Introduction to Python classes
-
-<!-- - RAM 155 Drive Code Review
+- RAM 155 Drive Code Review
     - [bt_test.py](../week08/codeRAM155/bt_test.py)
     - [piRover_bluetooth.py](../week08/codeRAM155/piRover_bluetooth.py)
     - [piRover_drive.py](../week08/codeRAM155/piRover_drive.py)
 - Dog class
 - LED class - interface planning 
--->
 
 
 ---
@@ -50,9 +48,9 @@ layout: default
 - piRover_switch_v2.py - extended to include internal pull up/down
 - Signal Conditioning Worksheet
 
-- Python Classes
+<!-- - Python Classes
     - Properties and Methods
-    - LED as a class
+    - LED as a class -->
 
 
   
