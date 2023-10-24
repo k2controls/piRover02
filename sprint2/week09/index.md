@@ -8,10 +8,10 @@ layout: default
 
 
 **Session 1**
-- PE1: Module 3 Coding (bitwise and data structures)
+- PE1: Module 3 Coding - part 2 (bitwise and data structures)
 - piRover classes - continued
   - LED as a class
-    - review LED plan 
+    - review LED plan (LED.txt)
   - RGB_LED as a class
   - deconstructor/cleanup()?
   - blink - update _duty_cytle
