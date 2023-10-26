@@ -26,6 +26,12 @@ layout: default
 
 **Session 2**
 
+- classes continued
+  - LED
+  - RGB LED
+  - Buzzer
+  - Warner
+  
 <!-- - Buzzer and Warner testing
 - Servo as a class
   - [RAM155 Servo project](P03.RemoteDrive.Servo.pdf){:target="_blank"}
