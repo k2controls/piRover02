@@ -21,26 +21,17 @@ layout: default
   - navigation
   - set_color()
   - rgb_led_test.py 
-- Buzzer as a class 
-- Warner as a class
+~~- Buzzer as a class~~ 
+~~- Warner as a class~~
 
 **Session 2**
 
 - classes continued
   - LED
   - RGB LED
-  - Buzzer
-  - Warner
+~~- Buzzer~~
+~~- Warner~~
   
-<!-- - Buzzer and Warner testing
-- Servo as a class
-  - [RAM155 Servo project](P03.RemoteDrive.Servo.pdf){:target="_blank"}
-- Servo testing
-- Gimbal as a class
-- Gimbal implmentation on your own
-- Gimbal testing on your own
-      -->
-
 ---
 
 ### Assignments
@@ -50,9 +41,9 @@ layout: default
 - test_led.py
 - RGB_LED.py
 - test_rgb_led.py
-- Buzzer.py
-- Warner.py
-- test_warner.py
+~~- Buzzer.py~~
+~~- Warner.py~~
+~~- test_warner.py~~
 
 <!-- - Servo.py
 - test_servo.py
