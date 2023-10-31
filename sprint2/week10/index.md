@@ -48,6 +48,7 @@ layout: default
   - RGB_LED.py
   - Servo.py
   - test_buzzer.py
+  - test_gimbal.py
   - test_led.py
   - test_rgb_led.py
   - test_servo.py
