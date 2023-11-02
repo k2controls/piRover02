@@ -20,21 +20,27 @@ layout: default
 
 **Session 2**
 
-<!-- - Buzzer and Warner testing
-- Servo as a class
-  - [RAM155 Servo project](P03.RemoteDrive.Servo.pdf){:target="_blank"}
-  - add left, right, center
-- Servo testing
-- Gimbal as a class
-- Gimbal implmentation on your own
-- Gimbal testing on your own
-- Gimbal video lab check required -->
+- P02 Testing 
+  - Next Thursday, No class session
+  - Requirements
+    - Use class definition
+    - Create objects
+    - Set properties
+    - Call methods
+    - see test_****.py files
 
-<!-- - Work with a team member to 
+- Servo as a class - review
+- Gimbal class - questions?
+  - Lab check video required
+  - Up, Down, Left, Right methods
+
+- Drive class  
+  - Work with a team member to 
   - Review class structures
   - Review RAM155 [piRover_drive.py](piRover_drive.py) solution
-  - Use your understanding of classes along with the prior RAM155 code to create the RoverDrive class.
-  - create a test_drive.py file to test your Drive class. See patterns in prior examples. -->
+  - Use your understanding of classes along with the prior RAM155 code to create the Drive class.
+  - create a test_drive.py file to test your Drive class. See patterns in prior examples.
+  - Report out at end of class session.
     
 ---
 
