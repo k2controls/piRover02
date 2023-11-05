@@ -20,6 +20,7 @@ layout: default
     - Week 15 - Review
     - Week 16 - PE Cert Test
 - piRover_drive (review from partner coding last week - functional?)
+- Gimbal class review
 - Drive.py
   - constructor
   - deconstructor
