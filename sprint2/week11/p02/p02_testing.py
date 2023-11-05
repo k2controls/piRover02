@@ -1,14 +1,13 @@
 ''' RAM 205 Sprint 2 Assessment
 1. Create a weekP02 directory in your RAM205 directory on 
 the rover. 
-2. Copy your current model folder from your weekFinal
-directory to a model subdirectory in your weekP02 directory.
+2. Copy your current piRover class files to your weekP02 directory.
 3. Copy this file to your weekP02 directiory.
-4. Import required components from your model directory and 
-complete the requirements listed below by replacing pass
-with lines of code. Use class methods created during Sprint 2.
+4. Import required components and complete the requirements 
+listed below by replacing the pass statement with lines of code
+that use class methods created during Sprint 2.
 5. Reference any prior resource to complete.
-3/18/23
+version date :11/5/2023
 '''
 
 # 1 LED toggle and update
