@@ -33,10 +33,21 @@ layout: default
 
 
 **Session 1**
-  - PE1 Summary Test Review
+  - Grade review
+    - W13 submission? Mod4 Test? 
+      - 30 points
+    - W14 Final Rover Assessment
+      - 100 points
+    - W15 PE Summary Test
+      - 20 points
+    - W16 - Smartphone video with extension
+      - 40 points
+    - Cert test
+      - 20 points
+    - Total left 210, Course total 690     
   - Error in Drive?
     - if speed != None:
-        if speed >= 0 and speed <= 100:
+      - if speed >= 0 and speed <= 100:
   - [RAM205 Final Assessment](FinalAssessment/RAM205_P03_FinalAssessment.pdf){:target='_blank'}
   - [p03_test_rover.py](FinalAssessment/p03_test_rover.py){:target='_blank'}
     - wget https://k2controls.github.io/piRover02/sprint3/week14/FinalAssessment/p03_test_rover.py
