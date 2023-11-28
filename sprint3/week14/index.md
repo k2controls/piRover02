@@ -34,6 +34,9 @@ layout: default
 
 **Session 1**
   - PE1 Summary Test Review
+  - Error in Drive?
+    - if speed != None:
+        if speed >= 0 and speed <= 100:
   - [RAM205 Final Assessment](FinalAssessment/RAM205_P03_FinalAssessment.pdf){:target='_blank'}
   - [p03_test_rover.py](FinalAssessment/p03_test_rover.py){:target='_blank'}
     - wget https://k2controls.github.io/piRover02/sprint3/week14/FinalAssessment/p03_test_rover.py
@@ -49,17 +52,20 @@ layout: default
 
 **Session 2**
   - Bluetooth - instructor demo only.
+
+<!--   
   - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
   - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
   - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
   - [test_bt_command_service.py](Bluetooth/test_bt_command_service.py){:target='_blank'}
-    
+     -->
 ---
 
 ### Assignments
 
 - Final Assessment
   - Zip entire weekFinal project including completed p03_test_rover.py
+  - Your structure must include model and tests directories.
   - Submit to the Moodle link provided.
   - This is a final assessment. No late work is accepted.
   - Bluetooth functionality is continued next week.
