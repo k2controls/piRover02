@@ -40,7 +40,7 @@ bluetooth_test_messages = [
     ]
 
 def print_test_messages():
-    print("Bluetooth messages used for testing.")
+    print("A sample of Bluetooth messages. Analog values can vary.")
     for m in bluetooth_test_messages:
         print(m)
 

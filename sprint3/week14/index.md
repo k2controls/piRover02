@@ -63,6 +63,7 @@ layout: default
 
 **Session 2**
   - Bluetooth - instructor demo only.
+    Bluetooth modules will be added to project next week
 
 <!--   
   - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
@@ -70,6 +71,15 @@ layout: default
   - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
   - [test_bt_command_service.py](Bluetooth/test_bt_command_service.py){:target='_blank'}
      -->
+
+<!-- wget https://k2controls.github.io/piRover02/sprint3/week14/Bluetooth/BTCommands.py
+
+wget https://k2controls.github.io/piRover02/sprint3/week14/Bluetooth/BTCommandService.py
+     
+     wget https://k2controls.github.io/piRover02/sprint3/week14/Bluetooth/MessageService.py 
+-->
+
+
 ---
 
 ### Assignments
