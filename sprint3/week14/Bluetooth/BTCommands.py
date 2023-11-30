@@ -1,4 +1,7 @@
 ''' Contains data definitions for Bluetooth messaging
+Keith E. Kelly
+v 2.1 - Added LED_OFF,LED_ON
+11/30/23
 '''
 from enum import Enum
 
@@ -21,11 +24,12 @@ class CommandID(Enum):
     SERVO_LEFT          = 11
     SERVO_RIGHT         = 12
     LED_OFF             = 13
-    LED_RED             = 14
-    LED_GREEN           = 15
-    LED_BLUE            = 16
-    SERVO_MID           = 17
-    OUTFIRE             = 18
+    LED_ON              = 14
+    LED_RED             = 15
+    LED_GREEN           = 16
+    LED_BLUE            = 17
+    SERVO_MID           = 18
+    OUTFIRE             = 19    # this is in the docs. Not sure what it is.
     
     GIMBAL_UP           = 20
     GIMBAL_DOWN         = 21
@@ -76,7 +80,7 @@ class Messages():
         ,"0,0,0,2,0,0,0,0,0": CommandID.SPEED_DOWN
         ,"0,0,0,0,1,0,0,0,0": CommandID.SERVO_LEFT
         ,"0,0,0,0,2,0,0,0,0": CommandID.SERVO_RIGHT
-        ,"0,0,0,0,0,0,1,0,0": CommandID.LED_OFF
+        ,"0,0,0,0,0,0,1,0,0": CommandID.LED_ON
         ,"0,0,0,0,0,0,2,0,0": CommandID.LED_RED
         ,"0,0,0,0,0,0,3,0,0": CommandID.LED_GREEN
         ,"0,0,0,0,0,0,4,0,0": CommandID.LED_BLUE
