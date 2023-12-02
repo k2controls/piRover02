@@ -8,7 +8,6 @@ layout: default
 
 **Schedule**
 - Week 15
-  - PE: Summary Test due
   - Session 1
     - Final Project/Coding - due Week 14 - review
     - PE Review - review_cert_review.py
@@ -20,16 +19,16 @@ layout: default
       - Rover App
       - Solution extension
 - Week 16
-  - Final Video due 
-    - Demo rover smartphone functionality.
-    - Demo code extension.
-    - No class, submit by end of day
-  - PE1: Certification 
-    - Submit your screen capture of cert score by end of the day.
-    - No class
+  - No class sessions
+  - PE: Summary Test due on Tuesday
+  - Final code due on Tuesday
+  - Final video/demo due on Tuesday 
+  - PE1: Certification - screen capture due on Thursday
 
 **Session 1**
-  - Final Assessment review = p03_test_rover.py
+  - Final Assessment review - p03_test_rover.py
+  - PE Review - review_cert_review.py
+
   - Smartphone app - initial
     - Add the following to your Model directory  
       - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
@@ -42,37 +41,18 @@ layout: default
 
 **Session 2**
 
+<!-- - Week 16 schedule and due dates
 - Python Certification Test 
   - [Preparation/Process](cert_test_directions/index.md)
     - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
     - Do system check prior to exam time. Use NMC workstation if in doubt.
-    - Deadline to post PE Certification image is Thursday.
+    - Deadline to post PE Certification image is next Thursday.
 
-
-
-  - Bluetooth - instructor demo only.
-    Bluetooth modules will be added to project next week
-
-<!--   
-  - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
-
-  - [test_bt_command_service.py](Bluetooth/test_bt_command_service.py){:target='_blank'}
-     -->
-
-<!-- 
-     
-     wget https://k2controls.github.io/piRover02/sprint3/week14/Bluetooth/MessageService.py 
--->
-
+- Smartphone app - continued
+  - extension - obstacle detect -->
 
 ---
 
 ### Assignments
 
-- Final Assessment
-  - Zip entire weekFinal project including completed p03_test_rover.py
-  - Your structure must include model and tests directories.
-  - Submit to the Moodle link provided.
-  - This is a final assessment. No late work is accepted.
-  - Bluetooth functionality is continued next week.
-  
+- None. Final code and demo due Week 16. See links.
