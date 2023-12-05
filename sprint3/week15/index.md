@@ -41,7 +41,8 @@ layout: default
 
 **Session 2**
 
-<!-- - Week 16 schedule and due dates
+
+- PE review - collections and slicing
 - Python Certification Test 
   - [Preparation/Process](cert_test_directions/index.md)
     - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
@@ -49,7 +50,9 @@ layout: default
     - Deadline to post PE Certification image is next Thursday.
 
 - Smartphone app - continued
-  - extension - obstacle detect -->
+  - shut down
+  - sinking keyup stop message
+  - extension - obstacle detect
 
 ---
 
