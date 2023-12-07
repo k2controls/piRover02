@@ -2,7 +2,8 @@
 Captures serial bluetooth message and 
 decodes to a rover command.
 V2.1
-11/30/23
+V2.2 - check for missing stop char
+12/7/23
 '''
 from serial import Serial
 from BTCommands import CommandType, CommandID, Messages
@@ -39,8 +40,8 @@ class BTCommandService:
         #wait for end
         while True:
             char = self.serial_port.read(1).decode()
-            if char == "#":
-                break
+            if char == "#" or char == "$":  #v2.2 added check for missing stop
+                 break
             input_str += char
         return input_str
 

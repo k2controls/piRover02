@@ -42,8 +42,8 @@ layout: default
 **Session 2**
 
 - Smartphone app - continued
+  - edit BTCommandService - line 42. Stop char is missing
   - shut down
-  - sinking keyup stop message
   - extension - obstacle detect
 
 - PE review - collections and slicing
