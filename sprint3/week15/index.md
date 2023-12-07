@@ -41,18 +41,19 @@ layout: default
 
 **Session 2**
 
+- Smartphone app - continued
+  - shut down
+  - sinking keyup stop message
+  - extension - obstacle detect
 
 - PE review - collections and slicing
+
 - Python Certification Test 
   - [Preparation/Process](cert_test_directions/index.md)
     - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
     - Do system check prior to exam time. Use NMC workstation if in doubt.
     - Deadline to post PE Certification image is next Thursday.
 
-- Smartphone app - continued
-  - shut down
-  - sinking keyup stop message
-  - extension - obstacle detect
 
 ---
 
