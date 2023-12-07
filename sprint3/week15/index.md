@@ -54,6 +54,8 @@ layout: default
     - Do system check prior to exam time. Use NMC workstation if in doubt.
     - Deadline to post PE Certification image is next Thursday.
 
+- [EnablingAppAtStartup.pdf](EnablingAppAtStartup.pdf){:target='_blank'}
+  
 
 ---
 
