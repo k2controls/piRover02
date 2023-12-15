@@ -3,15 +3,19 @@ Captures serial bluetooth message and
 decodes to a rover command.
 V2.1
 V2.2 - check for missing stop char
+v3.0 - testing required
 12/7/23
 '''
-from serial import Serial
+TEST = True
+
+if not TEST:
+    from serial import Serial
 from BTCommands import CommandType, CommandID, Messages
 
 class Command():
     # Data object that contains command parameters
     def __init__(self, 
-            command_type:CommandType, 
+            command_type:CommandType=None, 
             command_id:CommandID=None, 
             value:int=None, 
             message:str=None):
@@ -28,7 +32,8 @@ class Command():
 class BTCommandService:
     # Service to capture and parse command
     def __init__(self) -> None:
-        self.serial_port =Serial("/dev/ttyAMA0", 9600)
+        if not TEST:
+            self.serial_port =Serial("/dev/ttyAMA0", 9600)
         self.command_list = []
 
     def _get_message(self) -> str:
@@ -44,68 +49,67 @@ class BTCommandService:
                  break
             input_str += char
         return input_str
+    
+    def _load_commands(self, message:str):
+        '''Loads command objects based on message string.'''
+        segs = message.split(",")
+        if segs[0] == "4WD":
+            if segs[1][0:3] == "PTZ":
+                cmd = Command(CommandType.ANALOG, CommandID.SERVO_ANALOG, message=segs[1])
+                self._set_command_value(cmd)
+                self.command_list.append(cmd)
+            elif segs[1][:4] == "MODE":
+                cmd = Command(CommandType.MODE, message=segs[1])
+                self._set_command_id(cmd)
+                self.command_list.append(cmd)
+            elif segs[1][:2] == "CL":
+                cmd = Command(CommandType.ANALOG, message=segs[1])
+                self._set_command_id(cmd)
+                self._set_command_value(cmd)
+                self.command_list.append(cmd)
+                cmd = Command(CommandType.ANALOG, message=segs[2])
+                self._set_command_id(cmd)
+                self._set_command_value(cmd)
+                self.command_list.append(cmd)
+                cmd = Command(CommandType.ANALOG, message=segs[3])
+                self._set_command_id(cmd)
+                self._set_command_value(cmd)
+                self.command_list.append(cmd)
+        else:
+            cmd = Command(CommandType.CONTROL, message=message)
+            self._set_command_id(cmd)
+            self.command_list.append(cmd)  
 
-    def _get_analog_value(self, message:str) -> int:
-        ''' Extracts value from analog message'''
-        return_val = None
-        while message[0].isalpha():
-            message = message[1:]
-        if message.isdigit():
-            return_val = int(message)
-        return return_val   
+    def _set_command_id(self, command:Command):
+        '''Set command_id base on type and message.'''
+        if command.command_type == CommandType.CONTROL:
+            command.command_id = Messages.BUTTON_MESSAGES[command.message]
+        elif command.command_type == CommandType.MODE:
+            command.command_id = Messages.MODE_MESSAGES[command.message]
+        elif command.command_type == CommandType.ANALOG and command.message[0:3] == "PTZ":
+            command.command_id = CommandID.SERVO_ANALOG
+        elif command.command_type == CommandType.ANALOG and command.message[0:3] == "CLR":
+            command.command_id = CommandID.LED_RED_ANALOG
+        elif command.command_type == CommandType.ANALOG and command.message[0:3] == "CLG":
+            command.command_id = CommandID.LED_GREEN_ANALOG    
+        elif command.command_type == CommandType.ANALOG and command.message[0:3] == "CLB":
+            command.command_id = CommandID.LED_BLUE_ANALOG
 
-    def _decode_message(self, message) -> Command:
-        command = None
-        parts = message.split(",")
-        if parts[0] == "4WD":   # check for special
-            key = parts[1][:3]
-            if key == "PTZ":    # servo analog
-                command = Command(
-                    command_type=CommandType.ANALOG,
-                    command_id=CommandID.SERVO_ANALOG,
-                    message=parts[1])
-                command.value = self._get_analog_value(parts[1])
-            elif key == "CLR":  # LED analog - multiple commands - R,G, and B
-                self._decode_leds_message(message)
-                command = self.command_list.pop()
-            elif key == "MOD":  # Mode switch control, tracking, colorful, etc
-                command = Command(
-                    command_type=CommandType.MODE,
-                    message = parts[1])
-                command.command_type = Messages.MODE_MESSAGES[parts[1]]
-        elif message in Messages.BUTTON_MESSAGES.keys():    # Standard control button
-            command= Command(
-                command_type=CommandType.CONTROL,
-                message=message)
-            command.command_id = Messages.BUTTON_MESSAGES[message]
-        return command
+    def _set_command_value(self, command:Command):
+        '''Set value for analog command messages.'''
+        m =  command.message
+        while m[0].isalpha():
+            m = m[1:]
+        if m.isdigit():
+            command.value = int(m)
 
-    def _decode_leds_message(self, message:str):
-        ''' Creates individual LED messages from multipart slider message.'''
-        message_list = message.split(",")   # Three part message. Split into List.
-        self._decode_led_message(CommandID.LED_RED_ANALOG, message_list[1])
-        self._decode_led_message(CommandID.LED_GREEN_ANALOG, message_list[2])
-        self._decode_led_message(CommandID.LED_BLUE_ANALOG, message_list[3])
-        
-        
-    def _decode_led_message(self, command_id:CommandID, led_message:str):
-        ''' Create LED analog commands from led message.
-            Appends commands to command list.
-        '''
-        command = Command(
-            command_type=CommandType.ANALOG,
-            command_id=command_id,
-            message=led_message)
-        command.value = self._get_analog_value(led_message)
-        self.command_list.append(command)
-        
     def get_command(self) -> Command:
         ''' Gets command from queue or waits for next.'''
         if self.command_list: #prior LED command waiting?
             command = self.command_list.pop()
         else:                   # wait for next
             message = self._get_message()
-            command = self._decode_message(message)
+            self._load_commands(message)
+            command = self.command_list.pop()
         return command
-
 
