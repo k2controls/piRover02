@@ -42,7 +42,7 @@ layout: default
     
 **Session 2**
 
-- Status of Zoom recording?
+<!-- - Status of Zoom recording?
 - My test
     - [Cloud](https://nmc.zoom.us/rec/share/I4ShWrBzOjkhI3jkezkxjaTdRP2mMCBPTZGiXYNcgK2VGnnm2mOap-ZEjQpyJW2l.R6VNTtZ8UBXHd9UD)
     - [local](video2282558214.mp4)
@@ -75,7 +75,7 @@ layout: default
   - KVL and KCL
   - Meter use
   - Power transmission concepts
-
+ -->
 
 ---
 
