@@ -16,11 +16,15 @@ layout: default
       - version - must be from Spring 2023
       - updated SD card required?
         - Pick up new SD card from my makerspace. See plastic cards hanging in RAM cage.
+        ![Alt text](RAM155_sd_cards.jpg)
         - Leave old SD card
         - default password is **yahboom**
     - [Configure and Connect](piRoverConfigure/ConfiguringTheRaspberryPi.pdf){:target="_blank"}
     - [Disabling Yahboom](piRoverConfigure/DisablingYahboomBluetooth.pdf){:target="_blank"}
     - [Install VS Code](piRoverConfigure/VisualStudioCodeGettingStarted.pdf){:target="_blank"}
+- RAM205 kit - pick up one at NMC Makerspace
+  - Content review in Session 2
+  - ![Alt text](RAM205_kits.jpg)
 - [Python Certification Overview](../../course_info/python_cert)
 - [Raspberry Pi](https://raspberrypi.com){:target="_blank"}
 - VNC remote connection - review
@@ -80,7 +84,7 @@ layout: default
 ---
 
 ### Assignments
-- Pick up RAM205 Parts kit in Makerspace. See marked shelf in RAM cage at NMC Makerspace. **Required** for next week activities.
+- Pick up RAM205 Parts kit in Makerspace. See image above. **Required** for next week activities.
 - PE1: Module 1
   - Create account and start Module 1
   - Quiz and Test in assigned in following weeks. See schedule.
