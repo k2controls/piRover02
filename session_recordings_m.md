@@ -2,7 +2,7 @@
 ## RAM205
 ### Session Recordings - M,W
 
-- [01/15/2023]()
+- [01/15/2023](https://nmc.zoom.us/rec/share/LEB9-eKM-t2iO7f5-SHyYZE9yL6KTZBeR-oPFIPT46a3UOK4H8sN-PsdCy7g_XoA.e2vfbbvoZIU0o76c)
 
 <!-- - [01/17/2023]()
 - [01/22/2023]()
