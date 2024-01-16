@@ -13,7 +13,7 @@ layout: default
     - Issues? - please contact me immediately
   - Configure
     - SD card/OS required 
-      - version - must be from Spring 2023
+      - version - must be from Fall 2023
       - updated SD card required?
         - Pick up new SD card from my makerspace. See plastic cards hanging in RAM cage.
         ![Alt text](RAM155_sd_cards.jpg)
