@@ -46,10 +46,11 @@ layout: default
     
 **Session 2**
 
-<!-- - Status of Zoom recording?
-- My test
-    - [Cloud](https://nmc.zoom.us/rec/share/I4ShWrBzOjkhI3jkezkxjaTdRP2mMCBPTZGiXYNcgK2VGnnm2mOap-ZEjQpyJW2l.R6VNTtZ8UBXHd9UD)
-    - [local](video2282558214.mp4)
+- Status of Zoom recording?
+- My tests
+  - [local](video1437989670.mp4)
+  - [Cloud](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
+    
 - [Stack Overflow 2023 Developer Survey](https://survey.stackoverflow.co/2023/){:target="_blank"}
 - [Michigan's Hot 50](https://www.milmi.org/_docs/publications/Hot50_Statewide_2030.pdf){:target="_blank"}
 - Demo: Python on workstation
@@ -79,7 +80,7 @@ layout: default
   - KVL and KCL
   - Meter use
   - Power transmission concepts
- -->
+
 
 ---
 
