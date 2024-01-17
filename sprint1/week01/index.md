@@ -50,7 +50,8 @@ layout: default
 - My tests
   - [local](video1437989670.mp4)
   - [Cloud](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
-    
+
+- [RAM205 Parts Kit](../../resources/RAM205_kit_BOM.pdf){:target="_blank"}
 - [Stack Overflow 2023 Developer Survey](https://survey.stackoverflow.co/2023/){:target="_blank"}
 - [Michigan's Hot 50](https://www.milmi.org/_docs/publications/Hot50_Statewide_2030.pdf){:target="_blank"}
 - Demo: Python on workstation
