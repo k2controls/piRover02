@@ -3,8 +3,10 @@
 ### Session Recordings - T,TH
 
 - [01/16/2023](https://nmc.zoom.us/rec/share/ow1wDXyOEGrJPDD5P-lSc7J5mHGDzc238IG850NPuvwMYm-u9YHYMe-FMWKc90Tj.xqsiccaQAF6dLkPW)
+- [01/18/2023](https://nmc.zoom.us/rec/share/bIJVb88BK5m727wpwMta7C7ppEa781lAPmR_zt30M65SsK7RWlOPyHxe3B9RGXHB.f5mexLD7IToNVIQW)
 
-<!-- - [01/18/2023]()
+
+<!-- 
 - [01/23/2023]()
 - [01/25/2023]()
 - [01/30/2023]()
