@@ -76,11 +76,11 @@ layout: default
     - Go to definition (F12)  
 - Circuit Analysis - A review
   - Voltage, Current, Resistance
-  - Power
+<!-- - Power
   - Series and Parallel
   - KVL and KCL
   - Meter use
-  - Power transmission concepts
+  - Power transmission concepts -->
 
 
 ---
