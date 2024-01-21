@@ -45,7 +45,8 @@ layout: default
                 - Inspect the battery charger. What is the current specification?
                 - Does the charge time indicated in the Yahboom spec match your calculation?
     - ChatGPT prompt
-        - I'd like a better understanding of battery discharge and its impact on the internal resistance of the dc voltage source. Please explain or provide links to resources.            
+        - I'd like a better understanding of battery discharge and its impact on the internal resistance of the dc voltage source. Please explain or provide links to resources.
+        - Great. Now can you help me understand battery types and how the internal series resistance may differ from one to another. My project is using Lithium Ion battery.            
     - [Comparison between internal resistance and capacity test](internalRvsCapacityTest.pdf){:target="_blank"}
     - [Internal resistance of a voltage source](intresbeam.pdf){:target="_blank"}
     - [Power Sources](RAM205.PowerSources.pdf){:target="_blank"}
