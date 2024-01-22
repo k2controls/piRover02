@@ -7,6 +7,8 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 2
 
 **Session 1**
+- Week 01 video and rover status - issues?
+
 - Circuit Analysis - a review
     - Power
     - Series and Parallel
