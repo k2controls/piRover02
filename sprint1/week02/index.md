@@ -7,7 +7,7 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 2
 
 **Session 1**
-- Note: No class next Monday, Jan 29. KEK is at a conference.
+- Note: No class next week Session 1 (Monday or Tuesday Jan 29-30). KEK is at a conference.
 
 - Week 01 video and rover status - issues?
 
