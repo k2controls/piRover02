@@ -37,7 +37,7 @@ layout: default
 
 **Session 2**
 
-<!-- - Power Sources/Supplies
+- Power Sources/Supplies
     - Yahboom G1 Tank - power distribution - review from Session 1
         - battery
             - Battery Charging - see manual
@@ -60,7 +60,8 @@ layout: default
             - VT, VL, and IL measurements
             - Results discussion
         - Motor drive as load
-            - Create basic drive code -->
+            - Create basic drive code
+        - Testing and Data this week. Video report out next week.
 
 
 ---
@@ -71,7 +72,7 @@ layout: default
 - **Power Source - Introduction**
     - document with AA batteries ID and associated measurements and observations.
     - photo/image of test setup.
-- Battery test video and data due next week
+- Battery test video with data due next week.
 
 <!--     
     **Assignment**
