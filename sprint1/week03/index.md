@@ -25,7 +25,8 @@ layout: default
     - Test 3 - AC power source with drive as load
   
 - Power Supply Test Data
-  - [Class Data Set](power_supply_class_data.pdf){:target="_blank"}
+  - [Monday, Wednesday Class Data Set](power_supply_class_data_mw.pdf){:target="_blank"}
+  - [Tuesday, Thursday Class Data Set](power_supply_class_data_tr.pdf){:target="_blank"} 
   
 - Review of class data and conclusions
 - Power Supply video report-out due - 50 points, See rubric/grading below
