@@ -6,6 +6,10 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 1](../) - Week 04 
 
+**Announcements**
+1. Week 05 Session 1 (next week): Research on your own with report out during Session 2. See link below for Research document. Submit your work by end of Session 1 day. Class report out is at session 2.
+2. We're looking to hire new NMC Makerspace lab technicians this semester. You'll need to be enrolled at NMC at least through next school year. Email me if you are interested.
+
 **Session 1**
 - PE1: Mod 1 Test - Questions?
  
@@ -28,6 +32,7 @@ layout: default
  
 **Session 2**
 
+- .
 <!-- - Switching - high side vs low side 
   - [An introduction](https://www.baldengineer.com/low-side-vs-high-side-transistor-switch.html){:target="_blank"}
   - [BJT low side](https://predictabledesigns.com/how-to-switch-large-loads-with-a-microcontroller-using-transistors/){:target="_blank"}{:target="_blank"}
