@@ -31,21 +31,17 @@ layout: default
 - [RAM205.DigitalOutputs](RAM205.DigitalOutputs.docx)
  
 **Session 2**
-
-- .
-<!-- - Switching - high side vs low side 
-  - [An introduction](https://www.baldengineer.com/low-side-vs-high-side-transistor-switch.html){:target="_blank"}
-  - [BJT low side](https://predictabledesigns.com/how-to-switch-large-loads-with-a-microcontroller-using-transistors/){:target="_blank"}{:target="_blank"}
-  
+ 
 - [Digital Outputs](RAM205.DigitalOutputs.docx) (con't)
       - Low-side switch of LED issue with +5V source
       - Use of BJT transistor to resolve
       - 74__244 line driver to resolve
-      - Voltage divider solution -->
+      - Voltage divider solution
 
-<!-- 
-- [Digital Outputs - Driving high current loads](RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"} (intro) -->
+- [Digital Outputs - Driving high current loads](../week05/RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"} (intro) 
 
+- Week 5 Session 1 - research project - on your own
+  - [Power and Control Research Activity](../week05/RAM205.PowerAndControlResearch.docx)
 
 ---
 
@@ -57,6 +53,8 @@ layout: default
     - Detailed response is required. 
     - Discuss high-side and low-side configurations and constraints when driving loads using a GPIO port. 
     - Discuss any issues with the procedures.
-  - Digital Output - video lab checks
+  - Digital Output - video lab check
     - Submit video. Be sure to show resistor configuration on breadboard.
+- Digital Outputs - Driving high current loads - video lab check
+  - Submit video of Amber blink
 
