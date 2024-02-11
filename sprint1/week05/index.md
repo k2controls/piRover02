@@ -46,8 +46,12 @@ layout: default
 ---
 
 ### Assignments
+- Power and Control research
+  - submit mid-week
+  - Present your work during Session 2
 
 - PE1: Module 2 Quiz
+
 <!-- - piRover Warner Worksheet with voltages
 - Amber LED blink code or Warner1.py
 - Short video of amber blink (Warner1.py)
