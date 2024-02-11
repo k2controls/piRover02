@@ -34,6 +34,7 @@ layout: default
 
         
 **Session 2**
+
 <!-- - *No class session*
 - Sprint 1 capstone activity: [Power And Control Research](RAM205.PowerAndControlResearch.docx){:target="_blank"}
   - The instructor will review this activity and discuss examples during Session 1.
