@@ -12,8 +12,11 @@ layout: default
   - Research and complete Sprint 1 capstone
 - Sprint 1 capstone activity: [Power And Control Research](RAM205.PowerAndControlResearch.docx){:target="_blank"}
   - See the related video posted to the class announcements.
-  - Complete the responses and submit **by Tuesday**. See Moodle link.
-  - Be prepared to discuss your findings. You must use appropriate language when presenting. 
+  - Complete research and submit document mid-week
+    - Monday session - submit **by Tuesday**. 
+    - Tuesday session - submit **by Wednesday**.
+    - See Moodle link for deadline.
+  - Be prepared to discuss your findings during Session 2. You must use appropriate language when presenting. 
 
 
 <!-- 
