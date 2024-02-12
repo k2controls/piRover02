@@ -18,11 +18,15 @@ layout: default
     - See Moodle link for deadline.
   - Be prepared to discuss your findings during Session 2. You must use appropriate language when presenting. 
 
+**Session 2**
 
 <!-- 
 - PE1: Module 2
   - PE1: Mod 2 Quiz assigned
   - Review, Code Examples, and Discussion
+
+- Power and Control
+  - Student report outs  
          
 - **Session 2 - No class session. Research project on your own**
   - You'll complete the *Power And Control* research activity.
@@ -36,7 +40,7 @@ layout: default
     - Voltage measurements -->
 
         
-**Session 2**
+
 
 <!-- - *No class session*
 - Sprint 1 capstone activity: [Power And Control Research](RAM205.PowerAndControlResearch.docx){:target="_blank"}
