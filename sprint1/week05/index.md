@@ -37,8 +37,7 @@ layout: default
   - [piRoverWarnerWorksheet.docx](piRoverWarnerWorksheet.docx){:target="_blank"}
     - Circuit Review
     - warning1.py code review (blink)
-    - Voltage measurements --> -->
-
+    - Voltage measurements -->
 
 ---
 
