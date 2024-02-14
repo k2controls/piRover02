@@ -20,32 +20,25 @@ layout: default
 
 **Session 2**
 
-<!-- 
 - PE1: Module 2
   - PE1: Mod 2 Quiz assigned
   - Review, Code Examples, and Discussion
 
 - Power and Control
-  - Student report outs  
+  - Student report-outs
+    - Power source
+    - Load
+    - Control
+    - Interface  
          
-- **Session 2 - No class session. Research project on your own**
-  - You'll complete the *Power And Control* research activity.
-
-- You must have the 12 LED assembly and MOSFET module connected as directed by the instructor in prior sessions.
+<!-- 
 - [Digital Outputs - Driving high current loads](RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"}
 - piRover Warner
   - [piRoverWarnerWorksheet.docx](piRoverWarnerWorksheet.docx){:target="_blank"}
     - Circuit Review
     - warning1.py code review (blink)
-    - Voltage measurements -->
+    - Voltage measurements --> -->
 
-        
-
-
-<!-- - *No class session*
-- Sprint 1 capstone activity: [Power And Control Research](RAM205.PowerAndControlResearch.docx){:target="_blank"}
-  - The instructor will review this activity and discuss examples during Session 1.
-  - Complete the responses and submit with your end of week assignments. Be prepared to discuss your findings.  -->
 
 ---
 
@@ -54,7 +47,7 @@ layout: default
   - submit mid-week
   - Present your work during Session 2
 
-- PE1: Module 2 Quiz
+- PE1: Module 2 Quiz (Due but submit with test next week)
 
 <!-- - piRover Warner Worksheet with voltages
 - Amber LED blink code or Warner1.py
