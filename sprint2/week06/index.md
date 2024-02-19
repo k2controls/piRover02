@@ -43,6 +43,5 @@ layout: default
     - warning2.py code (PWM solution)
     - warning3.py code (piRover_warner solution)
     - piRover_Warner.py (piRover_warner solution)
-- Week 06 video lab check (short)
-  - Warner start/stop (warning4.py)
+
 
