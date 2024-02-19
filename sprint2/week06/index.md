@@ -25,7 +25,8 @@ layout: default
 
 **Session 2**
  
-  <!-- - piRover Warner - follow along with the instructor as warner code is created and tested.
+<!
+-- - piRover Warner - follow along with the instructor as warner code is created and tested.
       - warning2.py - pwm
       - warning3.py - module with start/stop
 
