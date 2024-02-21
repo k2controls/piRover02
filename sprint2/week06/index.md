@@ -26,13 +26,12 @@ layout: default
       
 **Session 2**
  
-
 - piRover Warner - follow along with the instructor as warner code is created and tested.
-      - warning3.py - pwm   (review)
-      - warning4.py, piRover_warner 
-        - warn_init, start, stop, cleanup
+  - warning3.py - pwm   (review)
+  - warning4.py, piRover_warner 
+    - warn_init, start, stop, cleanup
       
-  <!-- - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"} -->
+<!-- - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"} -->
 
 ---
 
