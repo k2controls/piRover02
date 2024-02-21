@@ -20,18 +20,19 @@ layout: default
   
   - piRover Warner - follow along with the instructor as warner code is created and tested.
       - warning1.py code review (blink)
-      - warning2.py - pwm
-      - warning3.py - module with start/stop
-
+      - warning2.py - (LED and Buzzer)
+      - warning3.py - (PWM with delay)
+      - warning4.py, piRover_warner - (main that call module)
+      
 **Session 2**
  
-<!-- 
-- piRover Warner - follow along with the instructor as warner code is created and tested.
-      - warning2.py - pwm
-      - warning3.py - module with start/stop
 
-  - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}
--->
+- piRover Warner - follow along with the instructor as warner code is created and tested.
+      - warning3.py - pwm   (review)
+      - warning4.py, piRover_warner 
+        - warn_init, start, stop, cleanup
+      
+  <!-- - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"} -->
 
 ---
 
@@ -40,9 +41,10 @@ layout: default
 - The following submitted in this week zip file
   - PE1: Module 2 Quiz and Test due
   - piRover Warner
-    - warning1.py code (with buzzer)
-    - warning2.py code (PWM solution)
-    - warning3.py code (piRover_warner solution)
+    - warning1.py code (LED)
+    - warning2.py code (LED and Buzzer)
+    - warning3.py code (PWM solution)
+    - warning4.py code (piRover_warner solution)
     - piRover_Warner.py (piRover_warner solution)
 
 
