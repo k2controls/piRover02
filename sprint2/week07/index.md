@@ -20,7 +20,7 @@ layout: default
 
 **Session 2**
 
-<!-- - PE1: Module 3 Coding (up to bitwise)
+- PE1: Module 3 Coding (up to bitwise)
 - Digital Inputs - Review from Week 07
 - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"} - More
     - Active low, Active high
@@ -38,7 +38,7 @@ layout: default
   - [Inductors/Inductance](https://www.electronics-tutorials.ws/accircuits/ac-inductance.html){:target="_blank"}
 
 - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf){:target="_blank"}
-- [Signal Conditioning - worksheet](SignalConditioning-worksheet.docx){:target="_blank"} -->
+- [Signal Conditioning - worksheet](SignalConditioning-worksheet.docx){:target="_blank"}
 
 ---
 
