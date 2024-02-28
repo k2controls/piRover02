@@ -21,7 +21,7 @@ layout: default
 **Session 2**
 
 - PE1: Module 3 Coding (up to bitwise)
-- Digital Inputs - Review from Week 07
+- Digital Inputs - Review from Session 1
 - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"} - More
     - Active low, Active high
     - Pull up, Pull down resistors
