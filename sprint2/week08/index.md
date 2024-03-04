@@ -7,6 +7,8 @@ layout: default
 ### [RAM205](../../) - [Sprint 2](../) - Week 08 
 
 **Session 1**
+- Makerspace opportunity! - techs needed for fall
+
 - PE Module 3 - part 2
 - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf){:target="_blank"}
 - [Signal Conditioning - worksheet](SignalConditioning-worksheet.docx){:target="_blank"}
