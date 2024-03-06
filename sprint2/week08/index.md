@@ -16,19 +16,19 @@ layout: default
 
 **Session 2**
 
-<!-- - Introduction to Python classes
-- RAM 155 Drive Code Review
-    - [bt_test.py](../week08/codeRAM155/bt_test.py)
-    - [piRover_bluetooth.py](../week08/codeRAM155/piRover_bluetooth.py)
-    - [piRover_drive.py](../week08/codeRAM155/piRover_drive.py)
+- Introduction to Python classes
+- AI Prompt: What is the advantage of using classes when programming in Python?
+ 
 - Dog class
+- Here's a great reference with even more on a Dog class example.
+    - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/){:target="_blank"}
 - LED class - interface planning
     - Review your RAM155 piRover solution (~/piRover/workingP03)
     - Locate your piRover_led.py module
     - Identify the properties and methods for a single LED
     - Edit [this text document](LED.txt){:target="_blank"} and list.
     - Are there other methods that we should include in our class?
-    - Be sure to include any required or optional parameters when defining LED methods. -->
+    - Be sure to include any required or optional parameters when defining LED methods.
 
 
 ---
