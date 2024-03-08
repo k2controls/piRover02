@@ -36,7 +36,8 @@ layout: default
 ### Assignments
 - PE1: Module 3 Quiz, work through labs!
 - Signal Conditioning Worksheet
-- LED.py - LED as a class 
+
+<!-- ~LED.py - LED as a class~  -->
 
 
   
