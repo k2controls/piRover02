@@ -12,17 +12,17 @@ layout: default
 - piRover classes - continued
   - LED as a class
     - review LED plan
-      - __init__()
+      - \__init__()
       - on()
       - off()
       - toggle()
       - blink()
       - dim()
     - review the use of self param. What others are required?
-    - review __init__ parameters
+    - review \__init__ parameters
     - consider the structure used for PWM in Week 6 warner
     - As a team
-      - revise __init__() to create a PWM port. Be sure to use the self reference.
+      - revise \__init__() to create a PWM port. Be sure to use the self reference.
       - use your class's PWM reference to implement on(), off(), toggle(), blink(), and dim().
       - How can you use the optional active_low parameter to invert the PWM pulse?
   - Class report out/review
