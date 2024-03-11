@@ -8,7 +8,7 @@ layout: default
 
 
 **Session 1**
-- PE1: Module 3 Coding - part 2 (bitwise and data structures)
+
 - piRover classes - continued
   - LED as a class
     - review LED plan
