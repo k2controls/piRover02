@@ -35,11 +35,11 @@ layout: default
 
 **Session 2**
 
-<!-- - classes continued
+- classes continued
   - LED
   - RGB LED
-~~- Buzzer~~
-~~- Warner~~ -->
+  - Buzzer
+  - Warner
   
 ---
 
@@ -50,10 +50,10 @@ layout: default
 - test_led.py
 - RGB_LED.py
 - test_rgb_led.py
+- Buzzer.py
 
-<!-- ~~- Buzzer.py~~
-~~- Warner.py~~
-~~- test_warner.py~~ -->
+<!-- - Warner.py
+- test_warner.py -->
 
 <!-- - Servo.py
 - test_servo.py
