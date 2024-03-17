@@ -17,6 +17,9 @@ layout: default
 - Servo as a class
   - [RAM155 Servo project](P03.RemoteDrive.Servo.pdf){:target="_blank"}
   - [piRover_servo.py](piRover_servo.py){:target="_blank"}
+- Gimbal class 
+  - Lab check video required
+  - Up, Down, Left, Right methods
 
 **Session 2**
 
