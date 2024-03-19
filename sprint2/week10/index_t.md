@@ -15,18 +15,18 @@ layout: default
   - RGB LED
   - Buzzer
   - Warner
-  
 
-
-**Session 2**
-
-<!-- - piRover classes - continued
 - Servo  
   - [RAM155 Servo project](P03.RemoteDrive.Servo.pdf){:target="_blank"}
   - [piRover_servo.py](piRover_servo.py){:target="_blank"}
 - Gimbal class 
   - Lab check video required
   - Up, Down, Left, Right methods -->
+
+
+**Session 2**
+
+
 
 ---
 
