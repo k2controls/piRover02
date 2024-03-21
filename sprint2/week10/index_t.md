@@ -26,7 +26,27 @@ layout: default
 
 **Session 2**
 
+<!--- P02 Testing 
+  - Next Thursday, No class session
+  - Requirements
+    - Use class definition
+    - Create objects
+    - Set properties
+    - Call methods
+    - see test_****.py files -->
 
+- Servo as a class - review
+- Gimbal class - questions?
+  - Lab check video required
+  - Up, Down, Left, Right methods
+
+- Drive class  
+  - Work with a team member to 
+  - Review class structures
+  - Review RAM155 [piRover_drive.py](piRover_drive.py) solution
+  - Use your understanding of classes along with the prior RAM155 code to create the Drive class.
+  - create a test_drive.py file to test your Drive class. See patterns in prior examples.
+  - **Submit both files by the end of the class session to the Moodle link provided.** 
 
 ---
 
