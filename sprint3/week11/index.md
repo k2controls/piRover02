@@ -32,6 +32,22 @@ layout: default
     - Final Project:Video due - No class, submit by end of day
     - PE1: Certification - No class
 
+- Gimbal review
+- Servo update() - normalized position parameter
+
+```python
+  def update(self, position:float):
+      # 0 pos is ccw and 1 is cw
+      if position < 0 or position > 1:
+          print("Invalid  position value")
+      else:
+          dc_range = self.ccw_dc - self.cw_dc
+          dc_setpoint = dc_range * position
+          dc_value = self.ccw_dc - dc_setpoint
+          self.pwm.ChangeDutyCycle(dc_value)
+
+```
+
 - piRover_drive (review from partner coding last week - functional?)
 - Drive.py - initial version via Week10 piRover_drive.py
 - Drive.py
