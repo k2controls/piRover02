@@ -2,7 +2,7 @@
 Open book, open notes but zip file with all required files
 must be submitted to the Moodle link before the end of 
 the class session.
-version date:04/03/2024
+version date:04/04/2024
 '''
 #1 Setup and completion
 '''
@@ -46,7 +46,7 @@ pass    #Your code goes here
 Write the following code snippet using objects created in Step 3 and test.
 1. Beep the buzzer slowly. Beeps should be more than one second
     apart and be a very short duration
-3. Wait for 5 seconds.
+3. Wait for 4 seconds.
 4. Turn the buzzer off.
 '''
 pass    #Your code goes here
@@ -69,7 +69,7 @@ pass    #Your code goes here
 '''
 Write the following code snippet using objects created in Step 3 and test.
 1. Turn the red LED on using the toggle function
-2. Wait for 2 seconds
+2. Wait for 4 seconds
 3. Turn the red LED off using the update function.
 '''
 pass    #Your code goes here
