@@ -46,11 +46,19 @@ layout: default
 
 **Session 2**
 
-<!-- - Sonar class
+- Sonar class
   - [Event detection and callbacks](https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/){:target="_blank"}
   - Event demo - switch_event
   - [Ping sensor](https://onlinesrs.co/product/ultrasonic-wave-detector-ranging-module-hc-sr04-hc-sr04-hcsr04-distance-sensor/){:target="_blank"}
-  - Sonar class - pins vs GPIO -->
+  - Sonar class - pins vs GPIO
+  - Review GPIO.getmode() and GPIO.setmode() 
+  - Existing class work with GPIO.BCM setting?
+  
+- Rover class and Rover Factory
+  - Create Rover class
+  - Create Rover factory
+    - [RoverPins.py](RoverPins.py){:target='_blank'}
+- Rover testing
 
 ### Assignments
 
