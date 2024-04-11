@@ -24,12 +24,12 @@
 - [04/02/2023](https://nmc.zoom.us/rec/share/Oc9-1_ivk0BHAWPArpTYrq0RYRcvk6ZKtksfGxi3UPMjnz2nqAIYCjFZ61CJJHWy.qOQvkErXmuITTwk9?startTime=1712077012000)
 - [04/04/2023]()  <!-- test day -->
 - [04/09/2023](https://nmc.zoom.us/rec/share/lRPuXgo4cTJ-Ef16Jy0GG2JqV-vQ0DjHmJM5kZsVE7R97XNzGX7IuU2aNYpyLShC.WBGQuUFjLOZ7E6gI )
-
+- [04/11/2023](https://nmc.zoom.us/rec/share/Fs5I8LnH_ATp9evt3uObUdkYCUs0e69MJR5ge4coOLV4tYIdl1Niz2pECoj17iW3.MJ6QauRjiiPdC9X8 )
 
 <!-- 
 
 
-- [04/11/2023]()
+
 - [04/16/2023]()
 - [04/18/2023]()
 - [04/23/2023]()
