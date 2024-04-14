@@ -6,63 +6,63 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 3](../) - Week 13
 
-
-- Drive code - review and complete this week.
-
-
 **Schedule**
-- Week 13 
-  - PE Mod4 Test
-  - S1 - Rover Pins, Rover Factory testing
-  - S2 - holiday break
-- Week 14
-  - Bluetooth service
-  - Bluetooth testing
-  - Final Project/Coding due
-- Week 15
-  - PE: Summary Test due
-  - PE Review
-  - Final Project/Coding review
-  - Rover app
-  - Final Project/Video assigned
-    - Final project test code
-    - Rover App
-- Week 16
-  - Final Video due - No class, submit by end of day
-  - PE1: Certification - No class
-
+  - Week 13 
+    - Review/complete Drive
+    - Rover Pins, Rover Factory testing
+    - Final Assessment
+    - Bluetooth intro/demo
+  - Week 14  
+    - PE: Summary Test due
+    - PE Review
+    - Final Project:Coding review
+    - Rover app
+    - Final Project:Video assigned
+  - Week 15 
+    - Final Project:Code/Video due - No class, submit by end of day
+    - PE1: Certification - No class, submit cert test results by end of the day
+    
 
 **Session 1**
-- Drive code - review and complete.
-- Review Sonar.py 
-  - GPIO numbers required. Pin numbers did not work
-  - GPIO.BCM mode instead of GPIO.BOARD
-- Revise all classes to include additional optional parameter.
-    - ..., pin_mode:int=GPIO.BOARD):
-    - GPIO.setmode(pin_mode)
-    - Sonar is exception - pin_mode = GPIO.BCM
-    - test all
-- Create Rover class
-- Create Rover factory
-  - [RoverPins.py](RoverPins.py){:target='_blank'}
-- Rover testing
-  - test all on your own
-
+  - Drive - review and speed extension
+  - model review
+  - [RAM205 Final Assessment](FinalAssessment/RAM205_P03_FinalAssessment.pdf){:target='_blank'}
+  - [p03_test_rover.py](FinalAssessment/p03_test_rover.py){:target='_blank'}
+    - wget https://k2controls.github.io/piRover02/sprint3/week14/FinalAssessment/p03_test_rover.py
+  - Submit by end of week
+    - Submit weekFinal.zip
+      - weekFinal 
+        - *model* subfolder with classes
+        - *tests* subfolder with tests.
+        - *test_rover1.py*
+        - *p03_test_rover.py*
+    - Do your own work. This is a final course assessment.
+    - Do not share or provide assistance.
 
 **Session 2**
-    - No class - *Happy Thanksgiving!*
+
+- Bluetooth services
+  - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
+  - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
+  - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
+  - [test_bt_command_service.py](Bluetooth/test_bt_command_service.py){:target='_blank'}
     
+```console
+wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommands.py
+
+wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommandService.py
+     
+     wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/MessageService.py 
+```
+
 ---
 
 ### Assignments
 
-- Submit weekFinal.zip
-  - weekFinal 
-    - *model* 
-      - rover_factory.py added
-      - Rover.py added
-      - RoverPins.py added
-    - *tests* subfolder.
-    - test_rover1.py (test all - final assessment next week)
-  - PE1: Mod4 test screen capture included in zip
+- Final Assessment
+  - Zip entire weekFinal project including completed p03_test_rover.py
+  - Your structure must include model and tests directories.
+  - Submit to the Moodle link provided.
+  - This is a final assessment. No late work is accepted.
+  - Bluetooth functionality is continued next week.
   
