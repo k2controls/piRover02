@@ -11,7 +11,7 @@ layout: default
     - Review/complete Drive
     - Rover Pins, Rover Factory testing
     - Final Assessment
-    - Bluetooth intro/demo
+    - Session 2 - Bluetooth intro/demo
   - Week 14  
     - PE: Summary Test due
     - PE Review
@@ -41,7 +41,7 @@ layout: default
 
 **Session 2**
 
-- Bluetooth services
+<!-- - Bluetooth services
   - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
   - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
   - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
@@ -52,8 +52,8 @@ wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommands.
 
 wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommandService.py
      
-     wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/MessageService.py 
-```
+wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/MessageService.py 
+``` -->
 
 ---
 
