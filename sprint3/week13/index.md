@@ -28,7 +28,7 @@ layout: default
   - model review
   - [RAM205 Final Assessment](FinalAssessment/RAM205_P03_FinalAssessment.pdf){:target='_blank'}
   - [p03_test_rover.py](FinalAssessment/p03_test_rover.py){:target='_blank'}
-    - wget https://k2controls.github.io/piRover02/sprint3/week14/FinalAssessment/p03_test_rover.py
+    - wget https://k2controls.github.io/piRover02/sprint3/week13/FinalAssessment/p03_test_rover.py
   - Submit by end of week
     - Submit weekFinal.zip
       - weekFinal 
