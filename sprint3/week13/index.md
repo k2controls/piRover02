@@ -41,13 +41,13 @@ layout: default
 
 **Session 2**
 
-<!-- - Bluetooth services
+- Bluetooth services - an intro/instructor demo
   - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
   - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
   - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
-  - [test_bt_command_service.py](Bluetooth/test_bt_command_service.py){:target='_blank'}
+  - [test2_command_service.py](Bluetooth/test2_command_service.py){:target='_blank'}
     
-```console
+<!-- ```console
 wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommands.py
 
 wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommandService.py

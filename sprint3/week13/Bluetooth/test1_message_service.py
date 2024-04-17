@@ -1,8 +1,7 @@
 ''' Uses message service to capture smartphone messages.
     Continues until LED OFF message received.
     11/30/23'''
-from Bluetooth.MessageService import MessageService
-
+from MessageService import MessageService
 
 def do_test():
     print("Test Message Service - a smartphone connect is required!")

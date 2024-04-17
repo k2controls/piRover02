@@ -1,8 +1,8 @@
-''' First test demo to display typical Bluetooth messages from smartphone.
-    No smartphone connection required.
-    11/30/23
+''' Typical Bluetooth messages from smartphone.
+    For discussion only. Not used.
+    4/17/2024
 '''
-bluetooth_test_messages = [
+bluetooth_sample_messages = [
         "0,0,0,0,0,0,0,0,0"            #STOP
         ,"1,0,0,0,0,0,0,0,0"           #FORWARD
         ,"2,0,0,0,0,0,0,0,0"           #BACKWARD
@@ -38,11 +38,3 @@ bluetooth_test_messages = [
         ,"4WD,MODE30"                  #Obstacle Stop
         ,"4WD,MODE31"                  #Obstacle Start
     ]
-
-def print_test_messages():
-    print("A sample of Bluetooth messages. Analog values can vary.")
-    for m in bluetooth_test_messages:
-        print(m)
-
-if __name__ == "__main__":
-    print_test_messages()
