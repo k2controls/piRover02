@@ -14,8 +14,8 @@ layout: default
     - Rover app with Bluetooth
     - Final Project:Video assigned
   - Week 15 
-    - Final Project:Code/Video due - No class, submit by end of day
-    - PE1: Certification - No clas
+    - Final Project:Code/Video due - No class, submit by session 1 end of day
+    - PE1: Certification - No class - submit by session 2 end of day
 
 **Session 1**
   - Final Assessment review - p03_test_rover.py
@@ -33,11 +33,14 @@ layout: default
 
 **Session 2**
 
-<!-- - Smartphone app - continued
+<!-- 
+- PE review - exceptions and slicing
+
+- Smartphone app - continued
   - shut down
   - extension - obstacle detect
+- [EnablingAppAtStartup.pdf](EnablingAppAtStartup.pdf){:target='_blank'}
 
-- PE review - exceptions and slicing
 
 - Python Certification Test 
   - [Preparation/Process](cert_test_directions/index.md)
@@ -45,17 +48,19 @@ layout: default
     - Do system check prior to exam time. Use NMC workstation if in doubt.
     - Deadline to post PE Certification image is next Thursday.
 
-- [EnablingAppAtStartup.pdf](EnablingAppAtStartup.pdf){:target='_blank'}
-   -->
+
+-->
 
 ---
 
 ### Assignments
 
 - None. Final code and demo due Week 15. See links.
+
+<!--
 ---
 
-<!-- ### Assignments
+ ### Assignments
 
 - Final Assessment
   - Zip entire weekFinal project including completed p03_test_rover.py
