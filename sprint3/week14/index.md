@@ -59,6 +59,7 @@ v2.3 - bug fix - mode message missing commandID
 ```
 
 - Smartphone app - continued
+  - analog messages - use servo slider for speed
   - shut down
   - extension - obstacle detect
 - [EnablingAppAtStartup.pdf](EnablingAppAtStartup.pdf){:target='_blank'}
