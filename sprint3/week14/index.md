@@ -33,24 +33,46 @@ layout: default
 
 **Session 2**
 
-<!-- 
-- PE review - exceptions and slicing
+- P03 part 1 review
+  - RGB_LED
+
+```python
+  # use patterns to create rgb object
+  # TODO
+  r1 = LED(RoverPins.LED_RED_PIN)
+  g1 = LED(RoverPins.LED_GREEN_PIN)
+  b1 = LED(RoverPins.LED_BLUE_PIN)
+
+  my_rgb_led = RGB_LED(r1, g1, b1)
+  rover.rgb_led = my_rgb_led
+```
+
+- BTCommand Service - bug fix
+
+```python
+'''
+v2.3 - bug fix - mode message missing commandID
+4/24/2024
+'''
+# see line 81
+  command.command_id = Messages.BUTTON_MESSAGES[message]
+```
 
 - Smartphone app - continued
   - shut down
   - extension - obstacle detect
 - [EnablingAppAtStartup.pdf](EnablingAppAtStartup.pdf){:target='_blank'}
 
-
 - Python Certification Test 
   - [Preparation/Process](cert_test_directions/index.md)
     - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
     - Do system check prior to exam time. Use NMC workstation if in doubt.
-    - Deadline to post PE Certification image is next Thursday.
+    - Deadline to post PE Certification image is next Week 15 Session 2.
 
-
--->
-
+- PE review
+  - exceptions
+  - slicing
+  
 ---
 
 ### Assignments

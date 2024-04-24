@@ -3,7 +3,8 @@ Captures serial bluetooth message and
 decodes to a rover command.
 V2.1
 V2.2 - check for missing stop char
-12/7/23
+v2.3 - bug fix - mode message missing commandID
+4/24/2024
 '''
 from serial import Serial
 from BTCommands import CommandType, CommandID, Messages
@@ -72,7 +73,7 @@ class BTCommandService:
                 command = Command(
                     command_type=CommandType.MODE,
                     message = parts[1])
-                command.command_type = Messages.MODE_MESSAGES[parts[1]]
+                command.command_id = Messages.MODE_MESSAGES[parts[1]]
         elif message in Messages.BUTTON_MESSAGES.keys():    # Standard control button
             command= Command(
                 command_type=CommandType.CONTROL,
