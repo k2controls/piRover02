@@ -9,8 +9,8 @@ layout: default
 
 **Session 1**
 - NO CLASS SESSION
-  - W15(final code) - Final code due by end of the day - See Moodle link
-   - W15(video)- Video/demo of Final code including extension - See Moodle link
+- W15(final code) - Final code due by end of the day - See Moodle link
+- W15(video)- Video/demo of Final code including extension - See Moodle link
   
 **Session 2**
 - NO CLASS SESSION
