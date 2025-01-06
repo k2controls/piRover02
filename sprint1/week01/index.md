@@ -13,24 +13,25 @@ layout: default
     - Issues? - please contact me immediately
   - Configure
     - SD card/OS required 
-      - version - must be from Fall 2023
+      - version - must be from Fall 2024
       - updated SD card required?
         - Pick up new SD card from my makerspace. See plastic cards hanging in RAM cage.
         ![Alt text](RAM155_sd_cards.jpg)
         - Leave old SD card
-        - default password is **yahboom**
-    - [Configure and Connect](piRoverConfigure/ConfiguringTheRaspberryPi.pdf){:target="_blank"}
-    - [Disabling Yahboom](piRoverConfigure/DisablingYahboomBluetooth.pdf){:target="_blank"}
-    - [Install VS Code](piRoverConfigure/VisualStudioCodeGettingStarted.pdf){:target="_blank"}
+        - default password is **nmc_ram**
+    - [Configure and Connect](ConfiguringTheRaspberryPi.pdf){:target="_blank"}
+      - Note: VNC Viewer is no longer used. This revised document demonstrates the use of TigerVNC as a remote desktop client.
+    - [Disabling Yahboom](DisablingYahboomBluetooth.pdf){:target="_blank"}
+    - [Install VS Code](VisualStudioCodeGettingStarted.pdf){:target="_blank"}
 - RAM205 kit - pick up one at NMC Makerspace
   - Content review in Session 2
   - ![Alt text](RAM205_kits.jpg)
 - [Python Certification Overview](../../course_info/python_cert)
 - [Raspberry Pi](https://raspberrypi.com){:target="_blank"}
-- VNC remote connection - review
-- Pi Configuration - review
-- Wi-Fi configuration - review
-- VS Code - review
+  - VNC remote connection - review
+  - Pi Configuration - review
+  - Wi-Fi configuration - review
+  - VS Code - review
 - [Python Language and Programming](python/PythonIntroduction.pdf){:target="_blank"}
 - Video recording using Zoom - testing!
   - leave class Zoom session
@@ -48,7 +49,7 @@ layout: default
 
 - Status of Zoom recording?
 - My tests
-  - [local](video1437989670.mp4)
+  - [local](__video1437989670.mp4)
   - [Cloud](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
 
 - [RAM205 Parts Kit](../../resources/RAM205_kit_BOM.pdf){:target="_blank"}
