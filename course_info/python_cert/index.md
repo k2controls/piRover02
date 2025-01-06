@@ -8,7 +8,7 @@ layout: default
 
 - [Python Certification](https://pythoninstitute.org/certification/pcep-certification-entry-level/){:target="_blank"}
 - [Python Prep Course](https://edube.org/study#){:target="_blank"}
-    - Python Essentials 1 (Basics, v.2.0)
+    - Python Essentials 1 (Aligned with PCEP-30-02)
 
 | Week  | edube| Due     |
 | :------------- | :------------- | :----------: |
