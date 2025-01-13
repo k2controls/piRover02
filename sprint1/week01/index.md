@@ -98,7 +98,7 @@ layout: default
   - Create a *RAM205_week01* video updating the instructor on the items listed below.
   - Submit the video either as a link or as an attachment to the Week 01 assignment link. (Link to Zoom cloud recording as tested in Session 1)
   - Include the following information or demonstrations.
-      1. Demonstrate your piRover as functional. Tell how or what you are testing. If not functional, discuss what are the barriers are preventing it from working.
+      1. Connect via TigerVNC and demonstrate that your piRover as functional. Tell how or what you are testing. If not functional, discuss what are the barriers are preventing it from working.
       2. Where will you be working from during most class periods? What is your workstation configuration that you will use during class? Workstation? Multiple devices?
-      3. Show your workstation and piRover setup. Share your screen showing VNC remote connection with VS Code running on the Raspberry Pi.
+      3. Show your workstation and piRover setup. Share your screen showing TigerVNC remote connection with VS Code running on the Raspberry Pi.
       
