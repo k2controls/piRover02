@@ -19,7 +19,8 @@ layout: default
         ![Alt text](RAM155_sd_cards.jpg)
         - Leave old SD card
         - default password is **nmc_ram**
-    - [Configure and Connect](ConfiguringTheRaspberryPi.pdf){:target="_blank"}
+    - [Configure and Connect](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
+      - See document link in Tools section. 
       - Note: VNC Viewer is no longer used. This revised document demonstrates the use of TigerVNC as a remote desktop client.
     - [Disabling Yahboom](DisablingYahboomBluetooth.pdf){:target="_blank"}
     - [Install VS Code](VisualStudioCodeGettingStarted.pdf){:target="_blank"}
