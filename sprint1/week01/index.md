@@ -47,6 +47,7 @@ layout: default
   - paste link in chat
     
 **Session 2**
+
 <!-- 
 - Status of Zoom recording?
 - My tests
@@ -78,6 +79,7 @@ layout: default
     - Go to definition (F12)  
 - Circuit Analysis - A review
   - Voltage, Current, Resistance -->
+  
 <!-- - Power
   - Series and Parallel
   - KVL and KCL
