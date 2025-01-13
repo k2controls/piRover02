@@ -26,14 +26,14 @@ layout: default
     - [Install VS Code](VisualStudioCodeGettingStarted.pdf){:target="_blank"}
 - RAM205 kit - pick up one at NMC Makerspace
   - Content review in Session 2
-  - ![Alt text](RAM205_kits.jpg)
+![Alt text](RAM205_kits.jpg)
 - [Python Certification Overview](../../course_info/python_cert)
 - [Raspberry Pi](https://raspberrypi.com){:target="_blank"}
-  - VNC remote connection - review
+  - TigerVNC remote connection - new!
   - Pi Configuration - review
   - Wi-Fi configuration - review
   - VS Code - review
-- [Python Language and Programming](python/PythonIntroduction.pdf){:target="_blank"}
+- [Python Language and Programming](PythonIntroduction.pdf){:target="_blank"}
 - Video recording using Zoom - testing!
   - leave class Zoom session
   - be sure you are logged into your Zoom account (NMC email)
@@ -47,7 +47,7 @@ layout: default
   - paste link in chat
     
 **Session 2**
-
+<!-- 
 - Status of Zoom recording?
 - My tests
   - [local](__video1437989670.mp4)
@@ -77,7 +77,7 @@ layout: default
     - step over (F10)
     - Go to definition (F12)  
 - Circuit Analysis - A review
-  - Voltage, Current, Resistance
+  - Voltage, Current, Resistance -->
 <!-- - Power
   - Series and Parallel
   - KVL and KCL
