@@ -3,10 +3,11 @@
 ### Session Recordings - M,W
 
 - [1/13/2025](https://nmc.zoom.us/rec/share/DOzObJ4m-HRpjtXJdxTohJDQQwkUhgXpU1NBtroVj_b8xSm_2sSc7IF0pu8GaccK.2M13jYB5GLXIBWn9)
+- [1/15/2025](https://nmc.zoom.us/rec/share/JURA1r5zs-GwjTA0Fx4XA5A2W-d4540sG-FbvFz4APVQvRsOgcRqQB6nireEq-A.HThwkEI297sZGTz9)
 
 <!--
 
-- [1/15/2025]()
+
 - [1/20/2025]()
 - [1/22/2025]()
 - [1/27/2025]()
