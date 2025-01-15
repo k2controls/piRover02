@@ -48,39 +48,49 @@ layout: default
     
 **Session 2**
 
-<!-- 
+
 - Status of Zoom recording?
 - My tests
-  - [local](__video1437989670.mp4)
-  - [Cloud](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
+  - [local - video1437989670.mp4](__video1437989670.mp4)
+  - [Cloud - https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
 
 - [RAM205 Parts Kit](../../resources/RAM205_kit_BOM.pdf){:target="_blank"}
-- [Stack Overflow 2023 Developer Survey](https://survey.stackoverflow.co/2023/){:target="_blank"}
+- [Stack Overflow 2024 Developer Survey](https://survey.stackoverflow.co/2024/){:target="_blank"}
 - [Michigan's Hot 50](https://www.milmi.org/_docs/publications/Hot50_Statewide_2030.pdf){:target="_blank"}
 - Demo: Python on workstation
   - [https://www.python.org/downloads/](https://www.python.org/downloads/){:target="_blank"}
   - [VS Code installation on workstation](https://code.visualstudio.com/Download){:target="_blank"}
+
+- piRover - Creating a Remote Connection - see link in Tools
+  - TigerVNC install
+  - Hostname = piRover (no .local required?)
+  - User = pi
+  - Password - your password or nmc_ram if new SD card
+  - Class report-out
+- piRover configuration
+  - Connecting to a Wi-Fi AP - see link in Tools section    
   - Create workspace (folder/directory)
     - RAM205
+    - use mkdir at terminal prompt
   - Demo: Python on Raspberry Pi
     - python --version
-    - python3 --version
-    - rm -r temp
     - mkdir temp
-    - [User Blink](python/user_blink.py){:target="_blank"}
-    - wget -O user_blink.py https://k2controls.github.io/piRover02/sprint1/week01/python/user_blink.py
-    - python3 user_blink.py
+    - cd temp
+    - [User Blink](user_blink.py){:target="_blank"}
+    - wget -O user_blink.py https://k2controls.github.io/piRover02/sprint1/week01/user_blink.py
+    - python user_blink.py
   - Demo: VS Code edit and debug
-    - wget -O guessing_game.py https://k2controls.github.io/piRover02/sprint1/week01/guessing_game.py
+    - "code ." to launch VS Code 
     - breakpoints
     - debug (F5)
     - step into (F11)
     - step over (F10)
     - Go to definition (F12)  
-- Circuit Analysis - A review
-  - Voltage, Current, Resistance -->
-  
-<!-- - Power
+  - rm -r temp
+    
+<!-- - Circuit Analysis - A review
+  - Voltage, Current, Resistance
+  - Power
   - Series and Parallel
   - KVL and KCL
   - Meter use
