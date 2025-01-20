@@ -7,37 +7,38 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 2
 
 **Session 1**
-- Note: No class next week Session 1 (Monday or Tuesday Jan 29-30). KEK is at a conference.
+- Note: No class next week Session 1 (Monday or Tuesday Jan 27-28). KEK is at a conference.
 
 - Week 01 video and rover status - issues?
+    - Is everyone able to connect via TigerVNC?
+    - Is an Internet connection (Wi-Fi) configured?
 
 - Circuit Analysis - a review
-    - Power
+    - Ohm's Law, Power
     - Series and Parallel
     - KVL and KCL
     - Meter use
     - Power transmission concepts
+    - Battery types: Yahboom vs. car starting
+    ![batteries](batteries.png)
 
 - DC Power Sources
     - [Voltage regulation](https://youtu.be/D52xUrIDrZY){:target="_blank"}
         - Rapberry PI power supply
             - Expansion board manual 
-            - [bst-4wd V4.2.pdf](bst-4wd%20V4.2.pdf){:target="_blank"}
+            - [Yahboom G1 Control Board Schematic](yahboom_G1_schematic.pdf){:target="_blank"}
             - Battery connection S3 and S4
             - VM
             - VCC
             - U10 3.3V
             - MVCC - 3.3V/5V
-    - [Yahboom battery](images/Yahboom_power_supply_spec1.jpg){:target="_blank"}
+    - [Yahboom battery](Yahboom_power_supply_spec1.jpg){:target="_blank"}
     - [Yahboom battery specification](battery_spec.md){:target="_blank"}
 - Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx)
 
-
-
-
 **Session 2**
 
-- Power Sources/Supplies
+<!-- - Power Sources/Supplies
     - Yahboom G1 Tank - power distribution - review from Session 1
         - battery
             - Battery Charging - see manual
@@ -61,7 +62,7 @@ layout: default
             - Results discussion
         - Motor drive as load
             - Create basic drive code
-        - Testing and Data this week. Video report out next week.
+        - Testing and Data this week. Video report out next week. -->
 
 
 ---
