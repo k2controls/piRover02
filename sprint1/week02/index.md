@@ -35,6 +35,10 @@ layout: default
     ![alt text](Yahboom_power_supply_spec1.jpg)
     - [Yahboom battery specification](battery_spec.md){:target="_blank"}
 - Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx)
+    - [Electronics: Internal Resistance of a Voltage Source](intresbeam.pdf){:target="_blank"}
+    - [Comparison between internal resistance and capacity test](internalRvsCapacityTest.pdf){:target="_blank"}
+    - [UNI-T Digital Multimeter User Manual](UNI-T_documentation.pdf){:target="_blank"}
+
 
 **Session 2**
 
