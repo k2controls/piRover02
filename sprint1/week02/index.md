@@ -23,16 +23,16 @@ layout: default
     ![batteries](batteries.png)
 
 - DC Power Sources
-    - [Voltage regulation](https://youtu.be/D52xUrIDrZY){:target="_blank"}
-        - Rapberry PI power supply
-            - Expansion board manual 
-            - [Yahboom G1 Control Board Schematic](yahboom_G1_schematic.pdf){:target="_blank"}
-            - Battery connection S3 and S4
-            - VM
-            - VCC
-            - U10 3.3V
-            - MVCC - 3.3V/5V
-    - [Yahboom battery](Yahboom_power_supply_spec1.jpg){:target="_blank"}
+    - Video: [Voltage regulation](https://youtu.be/D52xUrIDrZY){:target="_blank"}
+    - Rapberry PI power supply
+        - Expansion board manual 
+        - [Yahboom G1 Control Board Schematic](yahboom_G1_schematic.pdf){:target="_blank"}
+        - Battery connection S3 and S4
+        - VM
+        - VCC
+        - U10 3.3V
+        - MVCC - 3.3V/5V
+    ![alt text](Yahboom_power_supply_spec1.jpg)
     - [Yahboom battery specification](battery_spec.md){:target="_blank"}
 - Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx)
 
@@ -71,8 +71,7 @@ layout: default
 
 - PE1: Module 1 Quiz (screen capture)
 - **Power Source - Introduction**
-    - document with AA batteries ID and associated measurements and observations.
-    - photo/image of test setup.
+    - Document completed with AA batteries identified by associated measurements and observations.
 - Battery test video with data due next week.
 
 <!--     
