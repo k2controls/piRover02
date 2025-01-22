@@ -41,14 +41,14 @@ layout: default
 
 
 **Session 2**
-
-<!-- - Power Sources/Supplies
+- Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx) - con't
+- Power Sources/Supplies
     - Yahboom G1 Tank - power distribution - review from Session 1
         - battery
             - Battery Charging - see manual
             - Similar on Amazon
                 - [11.1V 2600mAh 3 Cell Lithium ion 18650 28.86Wh Rechange Battery Pack](https://www.amazon.com/dp/B08D2379MJ/ref=cm_sw_em_r_mt_dp_VEKNFQZZSG2D2EGG01YA){:target="_blank"}
-                - [Yahboom battery](images/Yahboom_power_supply_spec1.jpg){:target="_blank"}
+                - [Yahboom battery](Yahboom_power_supply_spec1.jpg){:target="_blank"}
                 - [2600mAh 3 Cell Lithium specification ](battery_spec.md){:target="_blank"}
                 - Based on Yahboom spec and Amazon assumption, what is the current load of the system?
                 - Inspect the battery charger. What is the current specification?
@@ -66,7 +66,7 @@ layout: default
             - Results discussion
         - Motor drive as load
             - Create basic drive code
-        - Testing and Data this week. Video report out next week. -->
+        - Testing and Data this week. Video report out next week.
 
 
 ---
