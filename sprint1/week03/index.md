@@ -14,16 +14,18 @@ layout: default
 - PE Module 1 Test due
   - PE Module 1 review
 - Continued: [Power Sources](../week02/RAM205.PowerSources.pdf){:target="_blank"}
-  - *Week 4 Assignent:* Internal Resistance of a Power Source - Video presentation
-    - See requirements in *Assignments* below.
-    - Power Sources - Test 2 and Test 3
-    - circuit review
-    - setup review
-    - drive code review
-    - Test 2 - drive as load
-    - Test 3 - AC power source with drive as load
+    - *Week 4 Assignent:* Internal Resistance of a Power Source - Video presentation
+    - See requirements in *Assignments* below and related rubric.
+- Today's procedure
+  - circuit review - real voltage sources with Rs
+  - Power Sources - Test 1 review
+  - setup review
+  - drive code - connect remotely and create
+  - Test 1 - check values
+  - Test 2 - drive as load
+  - Continue with Test 3 - AC power source with drive as load
   
-- Power Supply Test Data
+- Power Supply Test Data (posted later)
   - [Monday, Wednesday Class Data Set](power_supply_class_data_mw.pdf){:target="_blank"}
   - [Tuesday, Thursday Class Data Set](power_supply_class_data_tr.pdf){:target="_blank"} 
   
