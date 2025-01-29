@@ -21,6 +21,7 @@ layout: default
   - Power Sources - Test 1 review
   - setup review
   - drive code - connect remotely and create
+    - .config/autostart?
   - Test 1 - check values
   - Test 2 - drive as load
   - Continue with Test 3 - AC power source with drive as load
