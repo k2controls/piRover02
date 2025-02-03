@@ -7,8 +7,10 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 04 
 
 **Announcements**
-1. Week 05 Session 1 (next week): Research on your own with report out during Session 2. See link below for Research document. Submit your work by end of Session 1 day. Class report out is at session 2.
-2. We're looking to hire new NMC Makerspace lab technicians this semester. You'll need to be enrolled at NMC at least through next school year. Email me if you are interested.
+1. Week 05 Session 1 (next week): Research on your own with report out during Session 2. See link below for Research document. Submit your work by end of Week 5 Session 1 day. Class report out is at session 2.
+
+- Week 5 Session 1 - research project - on your own
+  - [Power and Control Research Activity](../week05/RAM205.PowerAndControlResearch.docx)
 
 **Session 1**
 - PE1: Mod 1 Test - Questions?
@@ -16,11 +18,12 @@ layout: default
 - Rover Mods for Week04
   - Breadboard
   - Amber LED and hardware
-  - MOSFET module and hardwar
-  - M-F Servo cable with shield remmove (headers position 4 to breadboard)
+  - MOSFET module and hardwar3
+  - M-F Servo cable with shield removed (headers position 4 to breadboard)
   - F-F Servo cable (header position 5 to MOSFET module)
   - JST connector to MOSFET Vin,GND
   - Amber LED to MOSFET V+,V-
+  - See session video for instructor demo
 
 - Digital Outputs
   - Switching - high side vs low side 
@@ -32,16 +35,15 @@ layout: default
  
 **Session 2**
  
-- [Digital Outputs](RAM205.DigitalOutputs.docx) (con't)
+<!-- - [Digital Outputs](RAM205.DigitalOutputs.docx) (con't)
       - Low-side switch of LED issue with +5V source
       - Use of BJT transistor to resolve
       - 74__244 line driver to resolve
       - Voltage divider solution
 
-- [Digital Outputs - Driving high current loads](../week05/RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"} (intro) 
+- [Digital Outputs - Driving high current loads](../week05/RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"} (intro)  -->
 
-- Week 5 Session 1 - research project - on your own
-  - [Power and Control Research Activity](../week05/RAM205.PowerAndControlResearch.docx)
+
 
 ---
 
