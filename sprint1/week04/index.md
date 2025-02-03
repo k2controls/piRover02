@@ -18,7 +18,7 @@ layout: default
 - Rover Mods for Week04
   - Breadboard
   - Amber LED and hardware
-  - MOSFET module and hardwar3
+  - MOSFET module and hardware
   - M-F Servo cable with shield removed (headers position 4 to breadboard)
   - F-F Servo cable (header position 5 to MOSFET module)
   - JST connector to MOSFET Vin,GND
