@@ -7,10 +7,10 @@ layout: default
 ### [RAM205](../../) - [Sprint 1](../) - Week 04 
 
 **Announcements**
-1. Week 05 Session 1 (next week): Research on your own with report out during Session 2. See link below for Research document. Submit your work by end of Week 5 Session 1 day. Class report out is at session 2.
-
+1. Week 05 preview (next week): Research on your own with report out to the class. See link below for Research document. 
 - Week 5 Session 1 - research project - on your own
   - [Power and Control Research Activity](../week05/RAM205.PowerAndControlResearch.docx)
+  -<video controls src="../week05/RAM205ResearchProjectOverview.mp4" title="Power and Control Research Activity"></video>
 
 **Session 1**
 - PE1: Mod 1 Test - Questions?
@@ -48,15 +48,18 @@ layout: default
 ---
 
 ### Assignments
-
-- Digital Outputs 
+1. Power Supply - video report-out
+  - See Week 3 for requirements, data, and rubric
+  - 50 points
+2. Digital Outputs 
   - Submit .docx or .pdf file with measurements and detailed summary.
     - See instructions for summary. 
-    - Detailed response is required. 
+    - Detailed response is required in final summary prompt. 
     - Discuss high-side and low-side configurations and constraints when driving loads using a GPIO port. 
     - Discuss any issues with the procedures.
-  - Digital Output - video lab check
-    - Submit video. Be sure to show resistor configuration on breadboard.
-- Digital Outputs - Driving high current loads - video lab check
-  - Submit video of Amber blink
+3. Digital Output - Lab Check
+  - Completed during class?
+  - If not, include short video.
+  - Be sure to show resistor configuration on breadboard.
+
 
