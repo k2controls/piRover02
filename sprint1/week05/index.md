@@ -15,7 +15,9 @@ layout: default
 
 - Research and complete Sprint 1 capstone
   - Sprint 1 capstone activity: [Power And Control Research](RAM205.PowerAndControlResearch.docx){:target="_blank"}
-  - <video controls src="RAM205ResearchProjectOverview.mp4" title="
+
+<video controls src="RAM205ResearchProjectOverview.mp4" title="Power and Control Research Activity"></video>
+
   - Be prepared to discuss your findings during Week 6. You must use appropriate terminology and language when presenting. Be sure to refer to the block diagram provided in the video.
 - [Digital Outputs - Driving high current loads](RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"}
 - piRover Warner
