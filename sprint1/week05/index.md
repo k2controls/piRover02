@@ -28,13 +28,22 @@ layout: default
     - Voltage measurements
 
 **Session 2**
+- New MOSFET modules in Makers
+
+- PE Module 2 Review
+
+- Session 1 Review
+  - warning4.py code - additional testing
+  - piRover_Warner.py - refactored
+    - warn_init, start, stop, cleanup
 
 ---
 
 ### Assignments
 - Power and Control research. Report-out next week
 - PE1: Module 2 Quiz 
-- piRover Warner Worksheet - completed during class
+- piRover Warner Worksheet - completed during class. 
+    - MOSFET good?
 - piRover Warner
     - warning1.py (Amber LED lab check - MOSFET good?)
     - warning2.py code (with buzzer)
