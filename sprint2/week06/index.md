@@ -8,15 +8,16 @@ layout: default
 
 **Session 1**
 - Grading - up to date except for 
-  - Lab checks: red LED, amber LED
-  - W05 research report out.
-- *Sprint 1 - Debt* - email with zip attachment.
-- PE Mod 2 Test due this week.
+  - W04 Power Sources Video Report  
 
 - Power-Output Drive Research 
-  - Report out. What did you find.
+  - Report out. What did you find?
+  - Many did not submit.
+  - Only several included block diagram/schematic requirement.
+  - See note if improved diagram or schematic is required.
+    - Report-outs: Namith, Sonya, Whelan, William
 
-- High-side, low-side review    
+- PE Mod 2 Test due this week.
 
 - piRover Warner - review
     - warning1.py code review (blink)
@@ -26,6 +27,7 @@ layout: default
       
 - piRover_warner - refactored using PWM and *private* functions
 
+- Power-Output Drive Research - resubmit for most. See my notes in W05-ReportOut link.
 
 **Session 2**
  
@@ -44,5 +46,6 @@ layout: default
     - piRover_warner.py 
     - switch_test.py 
     - video lab check - piRover_switch/piRover_warner
+  - **Power-Output Drive Research** - resubmit. See W05-ReportOut link and submit additional W05 work there. Report outs next week.
 
 
