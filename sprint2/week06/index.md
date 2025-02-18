@@ -10,12 +10,14 @@ layout: default
 - Grading - up to date except for 
   - W04 Power Sources Video Report  
 
+- Issues with zipping code file. (Tuesday)
+  - Double check zip files prior to submitted. Code file in zip should *not* be 0 KB in size!
+
 - Power-Output Drive Research 
   - Report out. What did you find?
-  - Many did not submit.
-  - Only several included block diagram/schematic requirement.
+  - Many did not submit.(Monday session)
+  - Only several included block diagram/schematic requirement. (Monday session)
   - See note if improved diagram or schematic is required.
-    - Report-outs: Namith, Sonya, Whelan, William
 
 - PE Mod 2 Test due this week.
 
