@@ -33,10 +33,7 @@ layout: default
 
 **Session 2**
  
-<!-- - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}       -->
-
-      
-
+- [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}      
 
 ---
 
