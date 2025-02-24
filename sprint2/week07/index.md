@@ -76,9 +76,9 @@ layout: default
 ### Assignments
 - PE1: Module 3 in-progress, work through labs!
 - Complete the following additonal quizzes. Submit screen captures of your 6 scores. This activity is graded on completion.
-[Python Operators and Expressions Quiz](https://pynative.com/basic-python-quiz-for-beginners/){:target="_blank"}
-[Python Input and Output Quiz](https://pynative.com/python-variables-and-data-types-quiz/){:target="_blank"}
-[Python Operators and Expressions Quiz](https://pynative.com/python-operators-and-expression-quiz/){:target="_blank"}
-Python Input and Output Quiz](https://pynative.com/python-input-and-output-quiz/){:target="_blank"}
-[Python Functions Quiz](https://pynative.com/python-functions-quiz/){:target="_blank"}
-[Python If Else and Loops Quiz](https://pynative.com/python-if-else-and-for-loop-quiz/){:target="_blank"}
+    - [Python Operators and Expressions Quiz](https://pynative.com/basic-python-quiz-for-beginners/){:target="_blank"}
+    - [Python Input and Output Quiz](https://pynative.com/python-variables-and-data-types-quiz/){:target="_blank"}
+    - [Python Operators and Expressions Quiz](https://pynative.com/python-operators-and-expression-quiz/){:target="_blank"}
+    - [Python Input and Output Quiz](https://pynative.com/python-input-and-output-quiz/){:target="_blank"}
+    - [Python Functions Quiz](https://pynative.com/python-functions-quiz/){:target="_blank"}
+    - [Python If Else and Loops Quiz](https://pynative.com/python-if-else-and-for-loop-quiz/){:target="_blank"}
