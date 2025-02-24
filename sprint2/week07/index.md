@@ -76,7 +76,7 @@ layout: default
 ### Assignments
 - PE1: Module 3 in-progress, work through labs!
 
-    <!-- - piRover_switch.py 
+<!-- - piRover_switch.py 
     - piRover_warner.py 
     - switch_test.py 
     - video lab check - piRover_switch/piRover_warner -->
