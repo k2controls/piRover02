@@ -58,16 +58,40 @@ layout: default
 
 **Session 2**
 
-<!-- - PE1: Module 3 Coding (up to bitwise)
-- Digital Inputs - Review from Session 1
+- Power System Research(Week 05) - report-out
+    - Session 1
+
+| Day     | Name    |
+|---------|---------|
+| Wednesday | Glenn  |
+| Wednesday | Danny  |
+| Wednesday | Daniel  |
+| Wednesday | Colter  |
+| Wednesday | Adin  |
+
+
+- PE1: Module 3 Coding 
+    - Discussion and demo
+
+- Continued - *Circuits - introduction/review*
+  - [Signal Diode](https://www.electronics-tutorials.ws/diode/diode_4.html){:target="_blank"}
+  - [Zener diode](https://www.electronics-tutorials.ws/diode/diode_7.html){:target="_blank"}
+  - [Schottky diode](https://www.electronics-tutorials.ws/diode/schottky-diode.html){:target="_blank"}
+  - [Capacitor/Capacitance](https://www.electronics-tutorials.ws/capacitor/cap_1.html){:target="_blank"}
+  - [Capacitive Reactance](https://www.electronics-tutorials.ws/filter/filter_1.html){:target="_blank"}
+  - [Low Pass Filter](https://www.electronics-tutorials.ws/filter/filter_2.html){:target="_blank"}
+  - [Inductors/Inductance](https://www.electronics-tutorials.ws/accircuits/ac-inductance.html){:target="_blank"}
+
+
+<!-- - Digital Inputs - Review from Session 1
 - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"} - More
     - Active low, Active high
     - Pull up, Pull down resistors
     - Specifying internal pull up/down
     - hysteresis
-    - pyRover_switch_v2.py
+    - pyRover_switch_v2.py -->
 
-
+<!-- 
 - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf){:target="_blank"}
 - [Signal Conditioning - worksheet](SignalConditioning-worksheet.docx){:target="_blank"} -->
 
