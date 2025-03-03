@@ -23,6 +23,8 @@ layout: default
 
 <!-- - [Signal Conditioning - worksheet](SignalConditioning-worksheet.docx){:target="_blank"} -->
 
+- Introduction to Python classes
+  - AI Prompt: What is the advantage of using classes when programming in Python?
 
 **Session 2**
 
