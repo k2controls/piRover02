@@ -7,16 +7,26 @@ layout: default
 ### [RAM205](../../) - [Sprint 2](../) - Week 08 
 
 **Session 1**
-- Makerspace opportunity! - techs needed for fall
 
 - PE Module 3 - part 2
+
+- Continued - *Circuits - introduction/review*
+  - Signal Diode
+  - Zener diode
+  - Schottky diode
+  - Capacitor/Capacitance
+  - Capacitive Reactance
+  - Low Pass Filter
+  - Inductors/Inductance
+  
 - [Digital Inputs - Signal Conditioning](RAM205.DigitalInputs.SignalConditioning.pdf){:target="_blank"}
-- [Signal Conditioning - worksheet](SignalConditioning-worksheet.docx){:target="_blank"}
+
+<!-- - [Signal Conditioning - worksheet](SignalConditioning-worksheet.docx){:target="_blank"} -->
 
 
 **Session 2**
 
-- Introduction to Python classes
+<!-- - Introduction to Python classes
 - AI Prompt: What is the advantage of using classes when programming in Python?
  
 - Dog class
@@ -28,14 +38,15 @@ layout: default
     - Identify the properties and methods for a single LED
     - Edit [this text document](LED.txt){:target="_blank"} and list.
     - Are there other methods that we should include in our class?
-    - Be sure to include any required or optional parameters when defining LED methods.
+    - Be sure to include any required or optional parameters when defining LED methods. -->
 
 
 ---
 
 ### Assignments
 - PE1: Module 3 Quiz, work through labs!
-- Signal Conditioning Worksheet
+
+<!-- - Signal Conditioning Worksheet -->
 
 <!-- ~LED.py - LED as a class~  -->
 
