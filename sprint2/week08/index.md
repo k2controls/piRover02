@@ -28,29 +28,34 @@ layout: default
 
 **Session 2**
 
-<!-- - Introduction to Python classes
+- Introduction to Python classes
 - AI Prompt: What is the advantage of using classes when programming in Python?
- 
-- Dog class
+
 - Here's a great reference with even more on a Dog class example.
     - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/){:target="_blank"}
+
+- Dog class - an example
+
 - LED class - interface planning
     - Review your RAM155 piRover solution (~/piRover/workingP03)
     - Locate your piRover_led.py module
     - Identify the properties and methods for a single LED
     - Edit [this text document](LED.txt){:target="_blank"} and list.
     - Are there other methods that we should include in our class?
-    - Be sure to include any required or optional parameters when defining LED methods. -->
+    - Be sure to include any required or optional parameters when defining LED methods.
+
+- LED() class with demo
+- RGB_LED() class with demo
 
 
 ---
 
 ### Assignments
 - PE1: Module 3 Quiz, work through labs!
+- LED.py - LED as a class
+- RGB_LED.py - RGB LED as a class
+- led_testing.py - instantiating and used LED objects
 
-<!-- - Signal Conditioning Worksheet -->
-
-<!-- ~LED.py - LED as a class~  -->
 
 
   

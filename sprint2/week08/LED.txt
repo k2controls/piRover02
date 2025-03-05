@@ -1,0 +1,7 @@
+RAM205 - LED Python Class - Planning
+
+LED()
+	Properties - list below
+
+	Methods - list below, include any required parameters
+	
