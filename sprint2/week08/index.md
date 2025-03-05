@@ -45,15 +45,13 @@ layout: default
     - Be sure to include any required or optional parameters when defining LED methods.
 
 - LED() class with demo
-- RGB_LED() class with demo
-
 
 ---
 
 ### Assignments
 - PE1: Module 3 Quiz, work through labs!
 - Dog.py, test_dog.py
-- LED.py - LED as a class
+- ~~LED.py - LED as a class~~
 
 
 
