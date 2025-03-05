@@ -52,9 +52,8 @@ layout: default
 
 ### Assignments
 - PE1: Module 3 Quiz, work through labs!
+- Dog.py, test_dog.py
 - LED.py - LED as a class
-- RGB_LED.py - RGB LED as a class
-- led_testing.py - instantiating and used LED objects
 
 
 
