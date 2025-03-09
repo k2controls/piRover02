@@ -21,13 +21,13 @@ layout: default
     - review the use of self param. What others are required?
     - review \__init__ parameters
     - consider the structure used for PWM in Week 6 warner
-    - As a team
+    - As a class
       - revise \__init__() to create a PWM port. Be sure to use the self reference.
       - use your class's PWM reference to implement on(), off(), toggle(), blink(), and dim().
       - How can you use the optional active_low parameter to invert the PWM pulse?
-  - Class report out/review
-    - how is toggle() implemented? Can you create as is_on() method? How did you define?
-  - deconstructor/cleanup()?
+      - how is toggle() implemented? Can you create as is_on() method? How did you define?
+    - deconstructor/cleanup()?
+
 - RGB_LED as a class - RGB_LED.py
   - navigation
   - set_color()
@@ -35,12 +35,12 @@ layout: default
 
 **Session 2**
 
-- classes continued
+<!-- - classes continued
   - LED
   - RGB LED
   - Buzzer
   - Warner
-  
+   -->
 ---
 
 ### Assignments
