@@ -51,9 +51,10 @@ layout: default
 - RGB_LED.py
 - test_rgb_led.py
 - Buzzer.py
-- test_buzzer.py
-- Warner.py
-- test_warner.py 
+- test_buzzer.
+
+<!-- - Warner.py
+- test_warner.py  -->
 
 <!-- - Servo.py
 - test_servo.py
