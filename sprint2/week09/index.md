@@ -40,10 +40,12 @@ layout: default
   - RGB LED
   - Buzzer
     - Copy LED to Buzzer and revise
-  - Warner
+
+
+  <!-- - Warner
     - Constructor required LED object and Buzzer object
     - see RGB_LED for example
-  
+   -->
 ---
 
 ### Assignments
@@ -55,8 +57,10 @@ layout: default
 - test_rgb_led.py
 - Buzzer.py
 - test_buzzer
+
+<!-- 
 - Warner.py
-- test_warner.py 
+- test_warner.py  -->
 
 <!-- - Servo.py
 - test_servo.py
