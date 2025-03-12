@@ -35,12 +35,15 @@ layout: default
 
 **Session 2**
 
-<!-- - classes continued
-  - LED
+- classes continued
+  - LED - refactored for active low param and pwm
   - RGB LED
   - Buzzer
+    - Copy LED to Buzzer and revise
   - Warner
-   -->
+    - Constructor required LED object and Buzzer object
+    - see RGB_LED for example
+  
 ---
 
 ### Assignments
@@ -51,10 +54,9 @@ layout: default
 - RGB_LED.py
 - test_rgb_led.py
 - Buzzer.py
-- test_buzzer.
-
-<!-- - Warner.py
-- test_warner.py  -->
+- test_buzzer
+- Warner.py
+- test_warner.py 
 
 <!-- - Servo.py
 - test_servo.py
