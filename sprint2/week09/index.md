@@ -42,10 +42,11 @@ layout: default
     - Copy LED to Buzzer and revise
 
 
-  <!-- - Warner
+<!-- - Warner
     - Constructor required LED object and Buzzer object
     - see RGB_LED for example
    -->
+
 ---
 
 ### Assignments
