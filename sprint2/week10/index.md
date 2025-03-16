@@ -7,61 +7,40 @@ layout: default
 ### [RAM205](../../) - [Sprint 2](../) - Week 10
 
    
+*** add rgb color class ***
+
 **Session 1**
 - Module 4 - assigned
 
 - piRover classes - continued
   - RGB_LED as a class - review
+  - extend - update(), set_color() 
 - Buzzer as a class 
 - Warner as a class
-- Servo as a class
-  - [RAM155 Servo project](P03.RemoteDrive.Servo.pdf){:target="_blank"}
-  - [piRover_servo.py](piRover_servo.py){:target="_blank"}
-- Gimbal class 
-  - Lab check video required
-  - Up, Down, Left, Right methods
 
-**Session 2**
-
-<!--- P02 Testing 
-  - Next Thursday, No class session
-  - Requirements
-    - Use class definition
+- P02 Testing on *Wednesday* or *Thursday*
+  - **No Zoom class session**
+  - P02 test and submission link will be available only during class session time. **You must submit code by end of the class period.**  
+  Requirements
+    - Use class definitions (LED, RGB_LED, RGB_COLOR, Buzzer, Warner)
     - Create objects
     - Set properties
     - Call methods
-    - see test_****.py files -->
+    - see test_****.py files 
 
-- Servo as a class - review
-- Gimbal class - questions?
-  - Lab check video required
-  - Up, Down, Left, Right methods
+**Session 2**
 
-- Drive class  
-  - Work with a team member to 
-  - Review class structures
-  - Review RAM155 [piRover_drive.py](piRover_drive.py) solution
-  - Use your understanding of classes along with the prior RAM155 code to create the Drive class.
-  - create a test_drive.py file to test your Drive class. See patterns in prior examples.
-  - **Submit both files by the end of the class session to the Moodle link provided.** 
-    
+- ## P02 Testing ####
+  
+  - No Zoom class session
+    - See Complete *on your own* during class session
+    - See P02 Testing link - available during Session 2 class time.
+    - Directions are provided as link
+    - Submit code to the ***P02 Testing - submit zip here*** Moodle link prior to session close.
+       
 ---
 
 ### Assignments
 
-- PE Mod4 - (in progress)
-- Zip the following code files
-  - Buzzer.py
-  - Gimbal.py
-  - LED.py 
-  - RGB_LED.py
-  - Servo.py
-  - test_buzzer.py
-  - test_gimbal.py
-  - test_led.py
-  - test_rgb_led.py
-  - test_servo.py
-  - test_warner.py
-  - Warner.py
-- Add your Gimbal Test video
-
+- None other than P02 coding submitted during Session 2
+  
