@@ -33,7 +33,7 @@ layout: default
 - ## P02 Testing ####
   
   - No Zoom class session
-    - See Complete *on your own* during class session
+    - Complete *on your own* during class session
     - See P02 Testing link - available during Session 2 class time.
     - Directions are provided as link
     - Submit code to the ***P02 Testing - submit zip here*** Moodle link prior to session close.
