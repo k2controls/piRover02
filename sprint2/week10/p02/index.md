@@ -10,7 +10,9 @@ layout: default
 
 No Zoom class session
   - Complete *on your own* during specified class session
-  - Submit the required solution as a zip file to the Moodle link on the main page. You must submit by the end of the class period. The submission link will be disabled at the end of  the class session. 
+  - Submit the required solution as a zip file to the Moodle link on the main page. 
+  - You must zip the entire solution with functional links using valid file names.
+  - Submit your zipped solution by the end of the class period. The submission link will be disabled at the end of the class session. 
 
 #### Directions
 1. Open your RAM205 solution on your piRover and create a weekP02 folder.

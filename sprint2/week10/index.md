@@ -6,10 +6,10 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 2](../) - Week 10
 
-   
-*** add rgb color class ***
-
 **Session 1**
+- **W08 Issue** *- Zip file contains empty .py file. See the announcement and class discussion and resubmit via email.*
+  - Review of zipping solutions and Google Drive use. 
+
 - Module 4 - assigned
 
 - piRover classes - continued
