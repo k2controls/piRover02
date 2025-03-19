@@ -17,7 +17,7 @@ No Zoom class session
 #### Directions
 1. Open your RAM205 solution on your piRover and create a weekP02 folder.
 2. **Copy all class files from the prior week to the new weekP02 folder.** Do not copy prior test files, but you can reference these as you complete this assessment.
-3. Create the p02_testing.py file in your solution folder either by creating the file and then copying the contents of this p02_testing.py file or by using the wget command below in a terminal window.
+3. Create the p02_testing.py file in your solution folder either by creating the file and then copying the contents of this [p02_testing.py](p02_testing.py) file or by using the wget command below in a terminal window.
 
 ```Console
 wget https://k2controls.github.io/piRover02/sprint2/week10/p02/p02_testing.py  
