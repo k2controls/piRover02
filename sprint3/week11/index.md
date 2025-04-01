@@ -6,7 +6,7 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 2](../) - Week 11
 
-- PE: Module 4 Quiz and Test due next week
+- PE: Module 4 Quiz due
 - Schedule
   - Week 11 (this week)
     - weekFinal configuration
