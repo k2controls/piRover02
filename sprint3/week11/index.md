@@ -70,7 +70,7 @@ layout: default
 **Session 2**
 
 - Servo class review
-  - update() vs set_position
+  - update() vs set_position()
   - Required pins for Gimbal servos - HEADER_1 and HEADER_2
   
 - Gimbal class
