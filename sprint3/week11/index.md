@@ -65,13 +65,24 @@ layout: default
           self.pwm.ChangeDutyCycle(dc_value)
 
 ```
-- Gimbal class
-  - complete Gimbal class on your own
-  - complete test_gimval on your own.
+
 
 **Session 2**
 
+- Servo class review
+  - update() vs set_position
+  - Required pins for Gimbal servos - HEADER_1 and HEADER_2
+  
+- Gimbal class
+  - Instructor will define required interface
+  - complete Gimbal class on your own
+  - complete test_gimbal on your own.
+
 - **Drive Class with testing**
+  - Parameters for drive constructor?
+  - Change direction
+  - Change speed
+  - increment/decrement speed
       
 ---
 
@@ -83,15 +94,15 @@ layout: default
     - model subfolder
       - Buzzer.py
       - Drive.py
-      - Gimbal.py
+      - **Gimbal.py** *- implement on your own*
       - LED.py
       - RGB_LED.py
       - Servo.py
       - Warner.py
     - tests subfolder
       - test_buzzer.py
-      - test_drive.py
-      - test_gimbal.py
+      - **test_drive.py** *- additional testing required*
+      - **test_gimbal.py** *- create,test - adjust params as required*
       - test_led.py
       - test_rgb_led.py
       - test_servo.py
