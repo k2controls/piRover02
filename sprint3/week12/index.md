@@ -6,9 +6,7 @@ layout: default
 
 ### [RAM205](../../) - [Sprint 3](../) - Week 12
 
-- PE: Module 4 test due
-- Schedule
-
+**Schedule**
 - Week 12 
   - PE Mod4 Test due
   - Continue Drive class with testing 
