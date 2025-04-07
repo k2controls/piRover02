@@ -32,7 +32,7 @@ layout: default
 - Week 11 review
   - Final project configuration (See Assignment section below)
     - *weekFinal*
-      - *module*
+      - *model*
       - *tests*
   - Servo class
     - constructor, deconstructor
