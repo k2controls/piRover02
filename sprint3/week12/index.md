@@ -17,6 +17,7 @@ layout: default
   - Bluetooth service
   - Bluetooth testing
   - Bluetooth integration
+  - Final Project/Coding due
 - Week 14  
   - PE: Summary Test due
   - PE Review
