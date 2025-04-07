@@ -87,18 +87,18 @@ layout: default
 - weekFinal.zip (Verify all test functions. Zip project with structure.)
   - Rover
     - Buzzer.py
-    - Drive.py
+    - Drive.py  (completed)
     - Gimbal.py
     - LED.py
     - RGB_LED.py
     - Servo.py
-    - Sonar.py
+    - Sonar.py  (added)
     - Warner.py
   - tests
     - test_buzzer.py
-    - test_drive.py
+    - test_drive.py (completed)
     - test_led.py
     - test_rgb.py
     - test_servo.py
-    - test_sonar.py
+    - test_sonar.py (added)
     - test_warner.py       
