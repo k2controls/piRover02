@@ -56,6 +56,10 @@ layout: default
   - Add update()
   - Test
   
+- Sonar class - PReview
+  - [Event detection and callbacks](https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/){:target="_blank"}
+  - Event demo - switch_event  
+  
 **Session 2**
 
 <!-- - Sonar class
