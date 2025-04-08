@@ -89,7 +89,7 @@ layout: default
 
 - PE1: Mod 4 Test
 - weekFinal.zip (Verify all test functions. Zip project with structure.)
-  - Rover
+  - model
     - Buzzer.py
     - Drive.py  (completed)
     - Gimbal.py
