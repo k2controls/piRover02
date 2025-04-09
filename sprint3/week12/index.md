@@ -60,6 +60,10 @@ layout: default
   
 **Session 2**
 
+- Drive
+  - add update(self, operation:Operation=None, speed:int=None, change_speed:int=0):
+  - test update()
+       
 - Sonar class 
   - [Event detection and callbacks](https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/){:target="_blank"}
   - Event demo - switch_event  
