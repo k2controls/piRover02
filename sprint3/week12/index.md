@@ -56,34 +56,37 @@ layout: default
   - Add update()
   - Test
   
-- Sonar class - PReview
-  - [Event detection and callbacks](https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/){:target="_blank"}
-  - Event demo - switch_event  
+
   
 **Session 2**
 
-<!-- - Sonar class
+- Sonar class 
   - [Event detection and callbacks](https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/){:target="_blank"}
-  - Event demo - switch_event
+  - Event demo - switch_event  
+  - [add_event_detect issue!](event_detect_issue.md){:target="_blank"}
   - [Ping sensor](https://onlinesrs.co/product/ultrasonic-wave-detector-ranging-module-hc-sr04-hc-sr04-hcsr04-distance-sensor/){:target="_blank"}
+  - sonar.distance vs. sonar.get_distance()
   
 - Refactoring class for GPIO
   - Sonar class - pins vs GPIO
   - Review GPIO.getmode() and GPIO.setmode() 
-  - Existing class work with GPIO.BCM setting? -->
-  
-<!-- - Rover class and Rover Factory
-  - Create Rover class
-  - Create Rover factory
-    - [RoverPins.py](RoverPins.py){:target='_blank'}
-- Rover testing -->
+  - Existing classes do not work with GPIO.BCM setting. GPIO.BOARD is hardcoded.
+  - Refactor all classes using the following (except Sonar). This enables GPIO mode to be set globally.
 
+```Python
+        if GPIO.getmode() == None:
+            GPIO.setwarnings(False)
+            GPIO.setmode(GPIO.BOARD)
+```
   
-<!-- - Rover class and Rover Factory
+- Rover class and Rover Factory
   - Create Rover class
   - Create Rover factory
     - [RoverPins.py](RoverPins.py){:target='_blank'}
-- Rover testing -->
+
+```Console
+wget https://k2controls.github.io/piRover02/sprint3/week12/RoverPins.py  
+```
 
 ### Assignments
 
