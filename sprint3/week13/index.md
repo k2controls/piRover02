@@ -8,7 +8,7 @@ layout: default
 
 **Schedule**
   - Week 13 
-    - Review/complete Drive
+    - Review/complete Factory and RoverPins implementation
     - Rover Pins, Rover Factory testing
     - Final Assessment
     - Session 2 - Bluetooth intro/demo
@@ -24,8 +24,35 @@ layout: default
     
 
 **Session 1**
-  - Drive - review and speed extension
-  - model review
+  - REVIEW: Refactoring classes for GPIO
+    - Sonar class - pins vs GPIO
+    - Review GPIO.getmode() and GPIO.setmode() 
+    - Existing classes did not work with GPIO.BCM setting. 
+      - GPIO.BOARD is hardcoded.
+    - Refactor _all_ classes using the following (except Sonar). This enables GPIO mode to be set globally.
+  
+  ```Python
+          if GPIO.getmode() == None:  # if mode is not set then Pins
+              GPIO.setwarnings(False)
+              GPIO.setmode(GPIO.BOARD)
+  ```
+    
+  - Rover class and Rover Factory
+    - Create Rover class
+    - Create Rover factory
+      - [RoverPins.py](RoverPins.py){:target='_blank'}
+  
+  ```Console
+  wget https://k2controls.github.io/piRover02/sprint3/week13/RoverPins.py  
+  ```
+  
+  - **Rover and rover_factory testing**
+    - test_rover1.py
+  
+**Session 2**
+
+<!-- - Review weekFinal including Rover class and Rover Factory module
+
   - [RAM205 Final Assessment](FinalAssessment/RAM205_P03_FinalAssessment.pdf){:target='_blank'}
   - [p03_test_rover.py](FinalAssessment/p03_test_rover.py){:target='_blank'}
     - wget https://k2controls.github.io/piRover02/sprint3/week13/FinalAssessment/p03_test_rover.py
@@ -39,13 +66,13 @@ layout: default
     - Do your own work. This is a final course assessment.
     - Do not share or provide assistance.
 
-**Session 2**
+
 
 - Bluetooth services - an intro/instructor demo
   - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
   - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
   - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
-  - [test2_command_service.py](Bluetooth/test2_command_service.py){:target='_blank'}
+  - [test2_command_service.py](Bluetooth/test2_command_service.py){:target='_blank'} -->
     
 <!-- ```console
 wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommands.py
