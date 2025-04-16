@@ -53,8 +53,8 @@ layout: default
 
 - Review weekFinal including Rover class and Rover Factory module
 
-  - [RAM205 Final Assessment](RAM205_P03_FinalAssessment.pdf){:target='_blank'}
-    - [p03_test_rover.py](p03_test_rover.py){:target='_blank'}
+- [RAM205 Final Assessment](RAM205_P03_FinalAssessment.pdf){:target='_blank'}
+  - [p03_test_rover.py](p03_test_rover.py){:target='_blank'}
 
 ```console
 wget https://k2controls.github.io/piRover02/sprint3/week13/p03_test_rover.py

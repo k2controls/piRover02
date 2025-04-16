@@ -1,5 +1,5 @@
 ''' p03_test_rover.py
-    RAM205 Final Assessment - Spring 2023
+    RAM205 Final Assessment - Spring 2025
     Testing the rover factory and classes.
     Enter code below for all "#TODO your code here" prompts
     Use the rover object as the entry point for all rover operations.
@@ -346,7 +346,7 @@ if choice.upper()[0] == "Y":
 choice = input("Run warner test? ")
 
 ''' 
-#TODO 
+**** #TODO ****
 Open the rover factory. Update the warner so that
 only the amber led is used. 
 *** No buzzer operation is included. ***
