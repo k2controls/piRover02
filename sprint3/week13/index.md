@@ -51,37 +51,21 @@ layout: default
   
 **Session 2**
 
-<!-- - Review weekFinal including Rover class and Rover Factory module
+- Review weekFinal including Rover class and Rover Factory module
 
-  - [RAM205 Final Assessment](FinalAssessment/RAM205_P03_FinalAssessment.pdf){:target='_blank'}
-  - [p03_test_rover.py](FinalAssessment/p03_test_rover.py){:target='_blank'}
-    - wget https://k2controls.github.io/piRover02/sprint3/week13/FinalAssessment/p03_test_rover.py
-  - Submit by end of week
-    - Submit weekFinal.zip
-      - weekFinal 
-        - *model* subfolder with classes
-        - *tests* subfolder with tests.
-        - *test_rover1.py*
-        - *p03_test_rover.py*
-    - Do your own work. This is a final course assessment.
-    - Do not share or provide assistance.
+  - [RAM205 Final Assessment](RAM205_P03_FinalAssessment.pdf){:target='_blank'}
+    - [p03_test_rover.py](p03_test_rover.py){:target='_blank'}
 
-
+```console
+wget https://k2controls.github.io/piRover02/sprint3/week13/p03_test_rover.py
+```
 
 - Bluetooth services - an intro/instructor demo
-  - [Bluetooth messaging](Bluetooth/MessageService.py){:target='_blank'}
-  - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
-  - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
-  - [test2_command_service.py](Bluetooth/test2_command_service.py){:target='_blank'} -->
-    
-<!-- ```console
-wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommands.py
+  - [Sample Messages](Bluetooth/sample_messages.md){:target='_blank'}
+  - [Bluetooth Command Service](Bluetooth/BTCommandService.md){:target='_blank'}
+  - [Bluetooth Commands](Bluetooth/BTCommands.md){:target='_blank'}
 
-wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/BTCommandService.py
-     
-wget https://k2controls.github.io/piRover02/sprint3/week13/Bluetooth/MessageService.py 
-``` -->
-
+ 
 ---
 
 ### Assignments
