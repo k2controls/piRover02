@@ -83,5 +83,5 @@ v2.3 - bug fix - mode message missing commandID
 
 ### Assignments
 
-- None. PE Summary Test
+- PE Summary Test
 
