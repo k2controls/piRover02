@@ -41,36 +41,31 @@ layout: default
     - Do system check prior to exam time. Use NMC workstation if in doubt.
     - Deadline to post PE Certification image is next Week 15 Session 2.
 
-- PE Review
-  - slicing
-  - exceptions
-
 - P03 part 1 review
   - Final Assessment review - p03_test_rover.py
     - rover.rgb_led
     - other?
-
-```python
-  # use patterns to create rgb object
-  # TODO
-  r1 = LED(RoverPins.LED_RED_PIN)
-  g1 = LED(RoverPins.LED_GREEN_PIN)
-  b1 = LED(RoverPins.LED_BLUE_PIN)
-
-  my_rgb_led = RGB_LED(r1, g1, b1)
-  rover.rgb_led = my_rgb_led
-```
-
+![alt text](gimbal_code.png)
+![alt text](factory_code.png)
 
 - Smartphone app 
-  - app_smartphone.py
+  - app_smartphone.py 
+    - create starter code with instructor
+    - complete solution
+    - create video - the video must show you pressing controls on your smartphone and then the associated rover behavior.
+    - Submit code and video link to the links provided. Deadline is Week 15, Session 1, end of the day.
 
-
-
+- PE Review
+  - slicing
+  - exceptions
 
 ---
 
 ### Assignments
 
-- PE Summary Test
-
+- Week 14 - PE Summary Test
+- Week 15, Session 1 end of the day
+  - weekFinal video (this is scored)
+  - weekFinal coding (this is supporting content)
+- Week 15, Thursday end of the day
+  - PE Certification
