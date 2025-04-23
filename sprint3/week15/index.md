@@ -8,12 +8,13 @@ layout: default
 
 
 **Session 1**
-- NO CLASS SESSION
-- W15(final code) - Final code due by end of the day - See Moodle link
-- W15(video)- Video/demo of Final code including extension - See Moodle link
+- *NO CLASS SESSION*
+- Rover video due (P03 part 2)- Video/demo of Final code showing smartphone actions with related rover behavior.
+- weekFinal final coding - Final code due along with video. This is support only. Video is required and is the graded item.
+
   
 **Session 2**
-- NO CLASS SESSION
+- *NO CLASS SESSION*
 - Python Certification Testing
 - Submit scoring screen capture by end of the day - See Moodle link
 
@@ -21,6 +22,5 @@ layout: default
 
 ### Assignments
 
-- weekFinal code
-- Video/Demo - app_smartphone with extension
+- Video/Demo - app_smartphone with code submitted as support
 - PE Certification test results
