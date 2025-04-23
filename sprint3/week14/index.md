@@ -42,6 +42,7 @@ layout: default
     - Deadline to post PE Certification image is next Week 15 Session 2.
 
 - P03 part 1 review
+  - 10 submitted, 5 with 4.0 grade
   - Final Assessment review - p03_test_rover.py
     - rover.rgb_led
     - other?
