@@ -35,14 +35,20 @@ layout: default
     
 **Session 2**
 
-<!-- - PE Review
+- Python Certification Test 
+  - [Preparation/Process](cert_test_directions/index.md)
+    - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
+    - Do system check prior to exam time. Use NMC workstation if in doubt.
+    - Deadline to post PE Certification image is next Week 15 Session 2.
+
+- PE Review
   - slicing
-  - exceptions.
+  - exceptions
 
 - P03 part 1 review
   - Final Assessment review - p03_test_rover.py
     - rover.rgb_led
-    - other
+    - other?
 
 ```python
   # use patterns to create rgb object
@@ -55,28 +61,11 @@ layout: default
   rover.rgb_led = my_rgb_led
 ```
 
-- BTCommand Service - bug fix
 
-```python
-'''
-v2.3 - bug fix - mode message missing commandID
-4/24/2024
-'''
-# see line 81
-  command.command_id = Messages.BUTTON_MESSAGES[message]
-```
+- Smartphone app 
+  - app_smartphone.py
 
-- Smartphone app - continued
-  - analog messages - use servo slider for speed
-  - shut down
-  - extension - obstacle detect
-- [EnablingAppAtStartup.pdf](EnablingAppAtStartup.pdf){:target='_blank'}
 
-- Python Certification Test 
-  - [Preparation/Process](cert_test_directions/index.md)
-    - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
-    - Do system check prior to exam time. Use NMC workstation if in doubt.
-    - Deadline to post PE Certification image is next Week 15 Session 2. -->
 
 
 ---
