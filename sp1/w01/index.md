@@ -13,7 +13,7 @@ layout: default
     - Issues? - please contact me immediately
   - Configure
     - SD card/OS required 
-      - version - must be from Fall 2024
+      - version - must be from Spring 2025
       - updated SD card required?
         - Pick up new SD card from my makerspace. See plastic cards hanging in RAM cage.
         ![Alt text](RAM155_sd_cards.jpg)
@@ -49,7 +49,7 @@ layout: default
 **Session 2**
 
 
-- Status of Zoom recording?
+<!-- - Status of Zoom recording?
 - My tests
   - [local - video1437989670.mp4](__video1437989670.mp4)
   - [Cloud - https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
@@ -69,7 +69,7 @@ layout: default
   - Class report-out
 - piRover configuration
   - Connecting to a Wi-Fi AP - see link in Tools section    
-  
+   -->
   <!-- Moved to W02 -->
 
   <!-- - Create workspace (folder/directory)
@@ -105,7 +105,7 @@ layout: default
 ### Assignments
 - Pick up RAM205 Parts kit in Makerspace. See image above. **Required** for next week activities.
 - PE1: Module 1
-  - Create account and start Module 1
+  - Create PE account and start Module 1
   - Quiz and Test in assigned in following weeks. See schedule.
 - (optional) Python and VS Code install on your workstation
 - piRover system functional with current OS version. Battery fully charged for Week 02.
