@@ -49,7 +49,9 @@ layout: default
 **Session 2**
 
 
-<!-- - Status of Zoom recording?
+<!-- 
+
+- Status of Zoom recording?
 - My tests
   - [local - video1437989670.mp4](__video1437989670.mp4)
   - [Cloud - https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
@@ -91,7 +93,9 @@ layout: default
     - Go to definition (F12)  
   - rm -r temp -->
     
-<!-- - Circuit Analysis - A review
+<!-- 
+
+- Circuit Analysis - A review
   - Voltage, Current, Resistance
   - Power
   - Series and Parallel
