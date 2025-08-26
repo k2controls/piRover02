@@ -71,10 +71,11 @@ layout: default
   - Class report-out
 - piRover configuration
   - Connecting to a Wi-Fi AP - see link in Tools section    
-   -->
-  <!-- Moved to W02 -->
+-->
 
-  <!-- - Create workspace (folder/directory)
+<!-- Moved to W02 -->
+
+<!-- - Create workspace (folder/directory)
     - RAM205
     - use mkdir at terminal prompt
   - Demo: Python on Raspberry Pi
@@ -91,7 +92,9 @@ layout: default
     - step into (F11)
     - step over (F10)
     - Go to definition (F12)  
-  - rm -r temp -->
+  - rm -r temp 
+  
+-->
     
 <!-- 
 
@@ -101,7 +104,9 @@ layout: default
   - Series and Parallel
   - KVL and KCL
   - Meter use
-  - Power transmission concepts -->
+  - Power transmission concepts 
+  
+-->
 
 
 ---
