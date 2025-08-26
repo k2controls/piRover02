@@ -2,9 +2,11 @@
 ## RAM205
 ### Session Recordings - T,Th
 
-<!--
+- [08/26/2025](https://nmc.zoom.us/rec/share/0vv3CjmUlCZ3rrLgC2bDlLYWj6KopioZnaHsOx91aPbcJhMy8BxMM0Dz7QLLH2lb.ym-_h3GcTYUpFqhT)
 
-- [08/26/2025]()
+
+
+<!--
 - [08/28/2025]()
 - [09/02/2025]()
 - [09/04/2025]()
