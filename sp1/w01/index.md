@@ -75,7 +75,9 @@ layout: default
 
 <!-- Moved to W02 -->
 
-<!-- - Create workspace (folder/directory)
+<!-- 
+
+- Create workspace (folder/directory)
     - RAM205
     - use mkdir at terminal prompt
   - Demo: Python on Raspberry Pi
