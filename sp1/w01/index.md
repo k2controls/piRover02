@@ -48,17 +48,12 @@ layout: default
     
 **Session 2**
 
-
-<!-- 
-
 - Status of Zoom recording?
-- My tests
-  - [local - video1437989670.mp4](__video1437989670.mp4)
-  - [Cloud - https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
+  - Assumption for the semester: Use Zoom cloud recordings. URLs must be submitted to a separate assignment link.
 
-- [RAM205 Parts Kit](../../resources/RAM205_kit_BOM.pdf){:target="_blank"}
-- [Stack Overflow 2024 Developer Survey](https://survey.stackoverflow.co/2024/){:target="_blank"}
-- [Michigan's Hot 50](https://www.milmi.org/_docs/publications/Hot50_Statewide_2030.pdf){:target="_blank"}
+- [RAM205 Parts Kit](../../hardware_kit/RAM205_kit_BOM.pdf)
+- [Stack Overflow 2025 Developer Survey](https://survey.stackoverflow.co/2025/){:target="_blank"}
+- [Michigan's Hot 50](https://www.michigan.gov/mcda/-/media/Project/Websites/mcda/reports/2024/Michigan-Hot-50-Job-Outlook-through-2032.pdf?rev=692067ec2ab6412897e5962c9012b785&hash=9A3042D73A3F34C1859718A3FE7236B9){:target="_blank"}
 - Demo: Python on workstation
   - [https://www.python.org/downloads/](https://www.python.org/downloads/){:target="_blank"}
   - [VS Code installation on workstation](https://code.visualstudio.com/Download){:target="_blank"}
@@ -71,21 +66,17 @@ layout: default
   - Class report-out
 - piRover configuration
   - Connecting to a Wi-Fi AP - see link in Tools section    
--->
 
-<!-- Moved to W02 -->
 
-<!-- 
-
-- Create workspace (folder/directory)
-    - RAM205
+- A Review of piRover coding
+  - Create workspace (folder/directory)
     - use mkdir at terminal prompt
   - Demo: Python on Raspberry Pi
     - python --version
     - mkdir temp
     - cd temp
     - [User Blink](user_blink.py){:target="_blank"}
-    - wget -O user_blink.py https://k2controls.github.io/piRover02/sprint1/week01/user_blink.py
+    - wget -O user_blink.py https://k2controls.github.io/piRover02/sp1/w01/user_blink.py
     - python user_blink.py
   - Demo: VS Code edit and debug
     - "code ." to launch VS Code 
@@ -96,10 +87,7 @@ layout: default
     - Go to definition (F12)  
   - rm -r temp 
   
--->
-    
-<!-- 
-
+   
 - Circuit Analysis - A review
   - Voltage, Current, Resistance
   - Power
@@ -107,9 +95,6 @@ layout: default
   - KVL and KCL
   - Meter use
   - Power transmission concepts 
-  
--->
-
 
 ---
 
@@ -118,7 +103,6 @@ layout: default
 - PE1: Module 1
   - Create PE account and start Module 1
   - Quiz and Test in assigned in following weeks. See schedule.
-- (optional) Python and VS Code install on your workstation
 - piRover system functional with current OS version. Battery fully charged for Week 02.
 - **Submit to Week 01 assignment link.**
   - Create a *RAM205_week01* video updating the instructor on the items listed below.
