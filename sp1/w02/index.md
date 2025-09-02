@@ -19,7 +19,8 @@ layout: default
     - Power transmission concepts
     - Battery types: Yahboom vs. car starting
     ![batteries](batteries.png)
-    - Battery testing using DVM
+- Battery testing using DVM
+- [UNI-T Digital Multimeter User Manual](UNI-T_documentation.pdf){:target="_blank"}
 
 - DC Power Sources
     - Video: [Voltage regulation](https://youtu.be/D52xUrIDrZY){:target="_blank"}
@@ -36,7 +37,7 @@ layout: default
 - Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx)
     - [Electronics: Internal Resistance of a Voltage Source](intresbeam.pdf){:target="_blank"}
     - [Comparison between internal resistance and capacity test](internalRvsCapacityTest.pdf){:target="_blank"}
-    - [UNI-T Digital Multimeter User Manual](UNI-T_documentation.pdf){:target="_blank"}
+
 
 
 **Session 2**
