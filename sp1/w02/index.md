@@ -42,7 +42,9 @@ layout: default
 
 **Session 2**
 
-<!-- - Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx) - con't
+<!-- - PE Module 1 -->
+
+- Activity:[Power Sources - Introduction](RAM205.PowerSourcesIntroduction.docx) (RAM205.PowerSourceIntroduction.docx) - con't
 - Power Sources/Supplies
     - Yahboom G1 Tank - power distribution - review from Session 1
         - battery
@@ -67,7 +69,7 @@ layout: default
             - Results discussion
         - Motor drive as load
             - Create basic drive code
-        - Testing and Data this week. Video report out next week. -->
+        - Testing and Data this week. Video report out next week.
 
 
 ---
