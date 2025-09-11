@@ -30,6 +30,23 @@ layout: default
 
 **Session 2**
 
+- Rover Mods for Week04
+  - Breadboard
+  - Amber LED and hardware
+  - MOSFET module and hardware
+  - M-F Servo cable with shield removed (headers position 4 to breadboard)
+  - F-F Servo cable (header position 5 to MOSFET module)
+  - JST connector to MOSFET Vin,GND
+  - Amber LED to MOSFET V+,V-
+  - See session video for instructor demo
+
+- Digital Outputs
+  - Switching - high side vs low side 
+    - AI Prompt - "I'm learning how to interface electronic control circuits to microcontroller outputs. I'm specifically working on a Raspberry Pi. I'm trying to understand high-side versus low-side switching and when I should be activating an output circuit with a logic high from an output port versus and logic low fron an output port. First, please explain high-side vs low-side using basic switches."
+    - AI Prompt = "Can you locate a schematic diagram that uses switches to explain high-side and low-side?"
+    - [High Side and Low Side Switches](https://www.rohm.com/electronics-basics/ipds/high-side-and-low-side-drive){:target="_blank"}
+
+- Week 04 preview - [RAM205.DigitalOutputs](RAM205.DigitalOutputs.pdf)
 
 ---
 
