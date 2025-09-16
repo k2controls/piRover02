@@ -10,7 +10,8 @@ layout: default
 1. Week 05 preview (next week): Research on your own with report out to the class. See link below for Research document. 
 - Week 5 Session 2 - research project - on your own
   - [Power and Control Research Activity](../week05/RAM205.PowerAndControlResearch.docx)
-  -<video controls src="../week05/RAM205ResearchProjectOverview.mp4" title="Power and Control Research Activity"></video>
+
+-<video controls src="../week05/RAM205ResearchProjectOverview.mp4" title="Power and Control Research Activity"></video>
 
 **Session 1**
 - PE1: Mod 1 Test - Questions?
