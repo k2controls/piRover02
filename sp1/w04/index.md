@@ -47,13 +47,14 @@ layout: default
  
 **Session 2**
  
-<!-- - [Digital Outputs](RAM205.DigitalOutputs.docx) (con't)
-      - Low-side switch of LED issue with +5V source
-      - Use of BJT transistor to resolve
-      - 74__244 line driver to resolve
-      - Voltage divider solution
+- [Digital Outputs](RAM205.DigitalOutputs.docx) (con't)
+    - High-side switch of LED with R1 and R1||R2
+    - Low-side switch of LED issue with +5V source
+      - Voltage divider fix/solution
+    - Use of BJT transistor to resolve
+    - 74__244 line driver to resolve
 
-- [Digital Outputs - Driving high current loads](../week05/RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"} (intro)  -->
+- Introduction: [Digital Outputs - Driving high current loads](../week05/RAM205.DrivingHighCurrentLoads.pdf){:target="_blank"}
 
 
 ---
