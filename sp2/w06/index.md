@@ -7,22 +7,18 @@ layout: default
 ### [RAM205](../../) - [Sprint 2](../) - Week 06
 
 **Session 1**
-- Grading - up to date except for 
 
+- Grading - Gradebook is up to date through Week 05. Sprint 1 is completed. See gradebook for Sprint 1 percentage.
 
 - Power-Output Drive Research 
-  - Report out. What did you find?
-
-  <!-- - Many did not submit.(Monday session)
-  - Only several included block diagram/schematic requirement. (Monday session)
-  - See note if improved diagram or schematic is required. -->
+  - Report out on Thursday (Sprint 2 points)
 
 - PE Mod 2 Test due this week.
   - PE Mod 2 Review
 
 - piRover Warner - review
     - warning1.py code review (blink)
-      - Lab Chk 2?
+
 - piRover Warner - extended
     - warning2.py - (LED and Buzzer)
     - warning3.py - (PWM with delay)
