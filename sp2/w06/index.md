@@ -26,11 +26,21 @@ layout: default
       
 - piRover_warner - refactored using PWM and *private* functions
 
-<!-- - Power-Output Drive Research - resubmit for most. See my notes in W05-ReportOut link. -->
-
 **Session 2**
  
-<!-- - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}       -->
+- Power-Output Drive Research - Report-Out
+![alt text](205Research_blockdiagram.png)
+
+  - Power Supply
+  - High-power load
+  - Controller
+  - Interface Circuits - low power control of high-power load
+  - Voltage source, regulation, current paths, etc
+
+- piRover Warner - continued from Session 1
+    - warning4.py, piRover_warner - (main that call module)
+      
+- piRover_warner - refactored using PWM and *private* functions
 
 ---
 
@@ -38,7 +48,7 @@ layout: default
 
 - The following submitted in this week zip file
 
-  - PE1: Module 2 Quiz 
+  - PE1: Module 2 Test 
   - Power and Control research - Report-out and class discussion
   - piRover Warner
       - warning1.py (Amber LED lab check - MOSFET good?)
@@ -47,9 +57,4 @@ layout: default
       - warning4.py code (piRover_warner solution)
       - piRover_Warner.py (piRover_warner solution)
 
-  <!-- - PE1: Module 2 Test due
-    - piRover_switch.py 
-    - piRover_warner.py 
-    - switch_test.py 
-    - video lab check - piRover_switch/piRover_warner
-  - **Power-Output Drive Research** - resubmit. See W05-ReportOut link and submit additional W05 work there. Report outs next week. -->
+
