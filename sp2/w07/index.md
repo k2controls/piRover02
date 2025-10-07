@@ -14,7 +14,7 @@ layout: default
     - [Domain Objectives](https://pythoninstitute.org/pcep-exam-syllabus){:target="_blank"}
 
 - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"}
-    - Code files submitted last week
+    - create piRover_switch resource and control warner
         - piRover_switch.py 
         - piRover_warner.py 
         - switch_test.py 
