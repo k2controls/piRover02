@@ -24,6 +24,8 @@ layout: default
 
 **Session 2**
 
+- *No Class next Tuesday*
+
 - Digital Inputs - Review from Session 1
 - [Digital Inputs](RAM205.DigitalInputs.pdf){:target="_blank"} - More
     - Active low, Active high
