@@ -28,7 +28,7 @@ layout: default
 
 **Session 2**
 
-- piRover classes - continued
+<!-- - piRover classes - continued
   - LED, test_led
   - RGB_LED, test_rgb_led
   - Buzzer, test_buzzer
@@ -41,7 +41,7 @@ layout: default
   - P02 assigned on Tuesday
   - *No Zoom class session on Thursday*
   - Submit P02 project file by end of the week
-    - *Note:* You must zip and submit all class files along with solution files. No partial submissions will be graded. Please double-check your project file prior to submitting.
+    - *Note:* You must zip and submit all class files along with solution files. No partial submissions will be graded. Please double-check your project file prior to submitting. -->
 
 ---
 
