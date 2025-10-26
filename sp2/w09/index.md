@@ -67,8 +67,7 @@ layout: default
 - test_dog.py - tests for Dog class
 - LED.py - LED as a class
 - test_led.py - tests for LED class
-- RGBLed.py - RGB LED as a class using LED class
-- test_led.py - tests for RGBLed class
+
 
 
 
