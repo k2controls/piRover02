@@ -48,8 +48,8 @@ layout: default
 ### Assignments
 
 - Submit a week10.zip file with the following files included:
-  - LED.py 
-  - test_led.py
+  - LED.py      (revised)
+  - test_led.py  (revised)
   - RGB_LED.py
   - test_rgb_led.py
   - Buzzer.py
