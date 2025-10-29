@@ -20,27 +20,27 @@
 - [10/16/2025](https://nmc.zoom.us/rec/share/s9-fvfQ-Y-_Y9bg8G6WboZB-fDmPMVCFTbFUWkMZrT55RJCNe3n1iWeV3YsW7ZUE.yo5gMJZglWa87ASI)
 - [10/21/2025](https://nmc.zoom.us/rec/share/U98aLhsPaXkyftnB1x2FDAL-2GuBXcjgnlWklNfMMS0Oct2IEy0MZ35vBCc8rSKz.5UifLozfnBFu2VDn)
 - [10/23/2025](https://nmc.zoom.us/rec/share/N9k8J6ti5d75kiuGo7HRusTSja1J-rtztYYQn_ON73M63Vz-bNCdEtcwwKPTNzmT.-LcCz0qDyKiQ9QCm)
-
+- [10/28/2025](https://nmc.zoom.us/rec/share/FuUwvwnZUcSn3M4wmAGWbbMKOi3qyze0WjJ6JGY2UrkC4df8Rqv1oskuwUU5QeOE.9PMR2m5yEIgjByU7)
 
 <!--
 
-
-
-
-
-- [10/28/2025]()
 - [10/30/2025]()
+
 - [11/04/2025]()
 - [11/06/2025]()
+
 - [11/11/2025]()
 - [11/13/2025]()
+
 - [11/18/2025]()
 - [11/20/2025]()
+
 - [11/25/2025]()
 - [11/27/2025]()
+
 - [12/02/2025]()
 - [12/04/2025]()
+
 - [12/09/2025]()
-- [12/11/2025]()
-- [12/16/2025]()
+- [12/11/2025]()    cert test
  -->
