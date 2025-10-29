@@ -23,24 +23,29 @@
 - [10/28/2025](https://nmc.zoom.us/rec/share/FuUwvwnZUcSn3M4wmAGWbbMKOi3qyze0WjJ6JGY2UrkC4df8Rqv1oskuwUU5QeOE.9PMR2m5yEIgjByU7)
 
 <!--
-
+w10 - led, buzzer, warner 
 - [10/30/2025]()
 
-- [11/04/2025]()
-- [11/06/2025]()
+w11
+- [11/04/2025]()    Review, finalize, P02 test assigned
+- [11/06/2025]()    weekFinal configuration - add Servo, Gimbal, and drive added
 
-- [11/11/2025]()
-- [11/13/2025]()
+w12
+- [11/11/2025]()    Servo, Gimbal, and drive added
+- [11/13/2025]()    Ping
 
-- [11/18/2025]()
-- [11/20/2025]()
+w13
+- [11/18/2025]()    rover Pins and factory intro   
+- [11/20/2025]()    **Rover and rover_factory testing**
 
-- [11/25/2025]()
-- [11/27/2025]()
+W14
+- [11/25/2025]()    P03 part 1
 
-- [12/02/2025]()
-- [12/04/2025]()
+w15
+- [12/02/2025]()    P03 review, PE review, Smart phon app intro
+- [12/04/2025]()    PE Exam setup, summary test, part 2 assigned
 
-- [12/09/2025]()
-- [12/11/2025]()    cert test
+w16
+- [12/09/2025]()    P03 part 2 video demo - no class
+- [12/11/2025]()    cert test - no class
  -->
