@@ -28,20 +28,22 @@ layout: default
 
 **Session 2**
 
-<!-- - piRover classes - continued
-  - LED, test_led
-  - RGB_LED, test_rgb_led
-  - Buzzer, test_buzzer
+- piRover classes - continued
+  - LED, test_led - *complete*
+  - RGB_LED, test_rgb_led - *complete*
+  - Buzzer, test_buzzer - *TODO*
+  - Warner as a class - *TODO*
 - Specifying data types for parameters
 - Specifying data types for return values
-- Warner as a class
 
-- #### Sprint 2 is completed. P02 final assessment next week
-  - Review on Tuesday
-  - P02 assigned on Tuesday
-  - *No Zoom class session on Thursday*
+
+### Sprint 2 is completed.
+- #### P02 final assessment on Tuesday.
+  - *No Zoom class session on Tuesday*
   - Submit P02 project file by end of the week
-    - *Note:* You must zip and submit all class files along with solution files. No partial submissions will be graded. Please double-check your project file prior to submitting. -->
+    - *Note:* You must zip and submit all class files along with solution files. No partial submissions will be graded. Please double-check your project file prior to submitting.
+
+- #### Thursday - final project configuration.  
 
 ---
 
