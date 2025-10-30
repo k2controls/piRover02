@@ -39,8 +39,9 @@ layout: default
 
 ### Sprint 2 is completed.
 - #### P02 final assessment on Tuesday.
-  - *No Zoom class session on Tuesday*
-  - Submit P02 project file by end of the week
+  - Setup: Instructor will walk through project setup in week11 directory
+  - Zoom session will end. Work on your own.
+  - **Submit P02 project file by end of the day.**
     - *Note:* You must zip and submit all class files along with solution files. No partial submissions will be graded. Please double-check your project file prior to submitting.
 
 - #### Thursday - final project configuration.  
