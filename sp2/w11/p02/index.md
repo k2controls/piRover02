@@ -20,7 +20,7 @@ No Zoom class session
 3. Create the p02_testing.py file in your solution folder either by creating the file and then copying the contents of this [p02_testing.py](p02_testing.py) file or by using the wget command below in a terminal window.
 
 ```Console
-wget https://k2controls.github.io/piRover02/sprint2/week11/p02/p02_testing.py  
+wget https://k2controls.github.io/piRover02/sp2/w11/p02/p02_testing.py  
 ```
 
 4. Complete the required test code as specified in the *p02_testing.py* file. Use your class files created during Sprint 2 and reference prior testing files as required.
