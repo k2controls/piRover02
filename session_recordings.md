@@ -22,15 +22,15 @@
 - [10/23/2025](https://nmc.zoom.us/rec/share/N9k8J6ti5d75kiuGo7HRusTSja1J-rtztYYQn_ON73M63Vz-bNCdEtcwwKPTNzmT.-LcCz0qDyKiQ9QCm)
 - [10/28/2025](https://nmc.zoom.us/rec/share/FuUwvwnZUcSn3M4wmAGWbbMKOi3qyze0WjJ6JGY2UrkC4df8Rqv1oskuwUU5QeOE.9PMR2m5yEIgjByU7)
 - [10/30/2025](https://nmc.zoom.us/rec/share/J4RB0Cgxyktsr0NrYOeAoYEwrjuSVqDCG_Jxxw2L7g0jttv-T3XjcY3urkttde4_.8Uwh5WgG0yGZIfhH )
-
+- [11/04/2025]()   
+- [11/06/2025](https://nmc.zoom.us/rec/share/BjZMFL69NvjsQwL4b53kD4cYYFZCqHvQjGJ3HoiBmc8yyQAOPFJAcHnMYt0Wblaf.Equa8quX39qS0jGP) 
 
 <!--
 w10 - led, buzzer, warner 
 
 
 w11
-- [11/04/2025]()    Review, finalize, P02 test assigned
-- [11/06/2025]()    weekFinal configuration - add Servo, Gimbal, and drive added
+
 
 w12
 - [11/11/2025]()    Servo, Gimbal, and drive added
