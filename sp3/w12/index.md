@@ -7,13 +7,13 @@ layout: default
 ### [RAM205](../../) - [Sprint 3](../) - Week 12
 
 **Schedule**
- Week 12 
-    - PE Mod4 Test due
-    - Review Servo - add update() - set position
-    - Create gimbal container
-      - left(), right() up(), down(), center(), update()
-    - Add Drive class with testing 
-    - Ping/sonar sensor added
+- Week 12 
+  - PE Mod4 Test due
+  - Review Servo - add update() - set position
+  - Create gimbal container
+    - left(), right() up(), down(), center(), update()
+  - Add Drive class with testing 
+  - Ping/sonar sensor added
 - Week 13 
   - PE: Summary Test assigned
   - Rover Pins, Rover Factory testing
