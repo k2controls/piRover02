@@ -24,16 +24,14 @@
 - [10/30/2025](https://nmc.zoom.us/rec/share/J4RB0Cgxyktsr0NrYOeAoYEwrjuSVqDCG_Jxxw2L7g0jttv-T3XjcY3urkttde4_.8Uwh5WgG0yGZIfhH )
 - [11/04/2025]()   
 - [11/06/2025](https://nmc.zoom.us/rec/share/BjZMFL69NvjsQwL4b53kD4cYYFZCqHvQjGJ3HoiBmc8yyQAOPFJAcHnMYt0Wblaf.Equa8quX39qS0jGP) 
+- [11/11/2025](https://nmc.zoom.us/rec/share/7USj4RHB6a_JUXYciG__L8YuUb0FNBv1icXO9gwdY_i68dA-_ruBVF6sJHUGWUPS.3tiXWDK8L6OvOBJm)
+
+
 
 <!--
-w10 - led, buzzer, warner 
-
-
-w11
-
 
 w12
-- [11/11/2025]()    Servo, Gimbal, and drive added
+
 - [11/13/2025]()    Ping
 
 w13
