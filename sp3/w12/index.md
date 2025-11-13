@@ -112,7 +112,8 @@ wget https://k2controls.github.io/piRover02/sprint3/week12/RoverPins.py
 - weekFinal.zip (Verify all test functions. Zip project with structure.)
   - model
     - Buzzer.py
-    - Drive.py  
+    - Drive.py
+    - Gimbal.py  
     - LED.py
     - RGB_LED.py
     - Servo.py
@@ -120,9 +121,10 @@ wget https://k2controls.github.io/piRover02/sprint3/week12/RoverPins.py
     - Warner.py
   - tests
     - test_buzzer.py
-    - test_drive.py 
+    - test_drive.py
+    - test_gimbal.py 
     - test_led.py
     - test_rgb.py
     - test_servo.py
-    - test_sonar.py 
+    - ~~test_sonar.py~~ 
     - test_warner.py       
