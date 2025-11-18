@@ -14,9 +14,7 @@ layout: default
     - Rover Pins, Rover Factory testing
   - Session 2
     - Rover Factory - Review
-    - Bluetooth service *(P03 Part 2 content)*
-    - Bluetooth testing *(P03 Part 2 content)*
-    - Bluetooth integration *(P03 Part 2 content)*
+    - Bluetooth service - introduction *(P03 Part 2 content)*
     - P03 Part 1 Assigned
 - Week 14  
   - Session 1
@@ -24,18 +22,21 @@ layout: default
     - **PE: Summary Test Due** - end of the day, *Wednesday, Nov 26*
     - **P03 Part 1 Due** - end of the day, *Wednesday, Nov 26*
   - Session 2
-    - None - Thanksgiving break
+    - *None - Thanksgiving break*
 - Week 15
-  - P03 Part 1 review
-  - PE Review
-  - PE Exam setup
-  - Smartphone app intro
-  - P03 part 2 assigned
+  - Session 1
+    - P03 Part 1 review
+    - PE Review
+    - Bluetooth service - setup and integration
+  - Session 2  
+    - PE Exam setup
+    - Smartphone app intro
+    - P03 Part 2 assigned
 - Week 16 
   - Session 1: Final Project:
-    - Video due - submit by end of day
+    - **P03 Part 2 Video due** - submit by end of day
     - No Zoom class but Keith is available
-  - PE1: Certification 
+  - Session 2: **PE1: Certification** 
     - Complete and post cert results by the end of the day.
     - No class  
 
