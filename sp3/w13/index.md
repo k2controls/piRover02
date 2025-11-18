@@ -41,6 +41,9 @@ layout: default
     - No class  
 
 **Session 1**
+
+  - [Expansion Board Manual](https://k2controls.github.io/piRover02/hardware_kit/expansionBoardManual.pdf){:target='_blank'}
+
   - REVIEW: Refactoring classes for GPIO
     - Sonar class - pins vs GPIO
     - Review GPIO.getmode() and GPIO.setmode() 
