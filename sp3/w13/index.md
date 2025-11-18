@@ -20,7 +20,7 @@ layout: default
     - P03 Part 1 Assigned
 - Week 14  
   - Session 1
-    - *P03 Working - No Zoom session, KEK online**
+    - *P03 Working - No Zoom session, KEK online*
     - **PE: Summary Test Due** - end of the day, *Wednesday, Nov 26*
     - **P03 Part 1 Due** - end of the day, *Wednesday, Nov 26*
   - Session 2
