@@ -26,12 +26,12 @@
 - [11/06/2025](https://nmc.zoom.us/rec/share/BjZMFL69NvjsQwL4b53kD4cYYFZCqHvQjGJ3HoiBmc8yyQAOPFJAcHnMYt0Wblaf.Equa8quX39qS0jGP) 
 - [11/11/2025](https://nmc.zoom.us/rec/share/7USj4RHB6a_JUXYciG__L8YuUb0FNBv1icXO9gwdY_i68dA-_ruBVF6sJHUGWUPS.3tiXWDK8L6OvOBJm)
 - [11/13/2025](https://nmc.zoom.us/rec/share/f4z1nPADJ4yfYq_7pCFcmCs5xvA4x2DvZai5k6SgYpdd-nplPp3wZ4CiMozY4KTd.F9vBVohr8dv4E2Qm)
-
+- [11/18/2025](https://nmc.zoom.us/rec/share/zmu00JG4HJzqYzZcUZNZfpGrub5KaBq4CAfOWw3qXm6demZulDmFtjeJDsV0riM9.oviKA5W__X3ZNDh1) 
 
 <!--
 
 w13
-- [11/18/2025]()    rover Pins and factory intro   
+   rover Pins and factory intro   
 - [11/20/2025]()    **Rover and rover_factory testing**
 
 W14
