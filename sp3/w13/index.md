@@ -71,24 +71,24 @@ layout: default
   
 **Session 2**
 
-<!-- - Review weekFinal including Rover class and Rover Factory module
+- Review weekFinal including Rover class and Rover Factory module
 
 - [RAM205 Final Assessment](RAM205_P03_FinalAssessment.pdf){:target='_blank'}
   - [p03_test_rover.py](p03_test_rover.py){:target='_blank'}
 
 ```console
-wget https://k2controls.github.io/piRover02/sprint3/week13/p03_test_rover.py
+wget https://k2controls.github.io/piRover02/sp3/w13/p03_test_rover.py
 ```
 
-- Bluetooth services - an intro/instructor demo
+- Bluetooth services - an introduction to week 15.
   - [Sample Messages](Bluetooth/sample_messages.md){:target='_blank'}
   - [Bluetooth Command Service](Bluetooth/BTCommandService.md){:target='_blank'}
-  - [Bluetooth Commands](Bluetooth/BTCommands.md){:target='_blank'} -->
+  - [Bluetooth Commands](Bluetooth/BTCommands.md){:target='_blank'}
 
  
 ---
 
 ### Assignments
 
-- None, but review next week's schedule. Practice zipping the entire weekFinal solution. Open your resulting zip file and verify you have the required content included. This is a final course assessment. Do your own work and be sure you are submitting all requirements as a zip file to next week's link. 
+- None, but review next week's schedule when P03 test is due. Practice zipping the entire weekFinal solution. Open your resulting zip file and verify you have the required content included. This is a final course assessment. Do your own work and be sure you are submitting all requirements as a zip file to next week's link. 
   
