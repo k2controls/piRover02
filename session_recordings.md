@@ -27,12 +27,10 @@
 - [11/11/2025](https://nmc.zoom.us/rec/share/7USj4RHB6a_JUXYciG__L8YuUb0FNBv1icXO9gwdY_i68dA-_ruBVF6sJHUGWUPS.3tiXWDK8L6OvOBJm)
 - [11/13/2025](https://nmc.zoom.us/rec/share/f4z1nPADJ4yfYq_7pCFcmCs5xvA4x2DvZai5k6SgYpdd-nplPp3wZ4CiMozY4KTd.F9vBVohr8dv4E2Qm)
 - [11/18/2025](https://nmc.zoom.us/rec/share/zmu00JG4HJzqYzZcUZNZfpGrub5KaBq4CAfOWw3qXm6demZulDmFtjeJDsV0riM9.oviKA5W__X3ZNDh1) 
+- [11/20/2025](https://nmc.zoom.us/rec/share/_u1QIGQ3cNDqBeAu-wpg4iHxdqZC6LCCyN1LwTdPvnQXTJZbUgokIWAXduSUUFvR.z5PHVidgokAFcIsY) 
+
 
 <!--
-
-w13
-   rover Pins and factory intro   
-- [11/20/2025]()    **Rover and rover_factory testing**
 
 W14
 - [11/25/2025]()    P03 part 1
