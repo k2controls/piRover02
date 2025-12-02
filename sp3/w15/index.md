@@ -26,27 +26,37 @@ layout: default
 
 
 **Session 1**
-- Final Assessment review - p03_test_rover.py
+- P03 part 1 review
+  - Final Assessment review - p03_test_rover.py
+    - rover.rgb_led
+    - other?
+![alt text](gimbal_code.png)
+![alt text](factory_code.png)
+
 - PE Review - PE_review.py
 
-  - Smartphone app - initial
-    - Add the following to your Model directory  
-      - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
-      - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
-      
-      ```
-      wget https://k2controls.github.io/piRover02/sp3/w15/Bluetooth/BTCommands.py
-      wget https://k2controls.github.io/piRover02/sp3/w15/Bluetooth/BTCommandService.py
-      ```
-    - Bluetooth testing
+- Smartphone app - initial
+  - Remove gimbal from factory
+  - Add the following to your Model directory  
+    - [Bluetooth Command Service](Bluetooth/BTCommandService.py){:target='_blank'}
+    - [Bluetooth Commands](Bluetooth/BTCommands.py){:target='_blank'}
+    
+    ```
+    wget https://k2controls.github.io/piRover02/sp3/w15/Bluetooth/BTCommands.py
+    wget https://k2controls.github.io/piRover02/sp3/w15/Bluetooth/BTCommandService.py
+    ```
+  - Bluetooth testing
     
 
   
 **Session 2**
 
-<!-- - *NO CLASS SESSION*
-- Python Certification Testing
-- Submit scoring screen capture by end of the day - See Moodle link -->
+<!-- - Python Certification Test 
+  - [Preparation/Process](cert_test_directions/index.md)
+    - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
+    - Do system check prior to exam time. Use NMC workstation if in doubt.
+    - Deadline to post PE Certification image is next Week 15 Session 2. -->
+
 
 ---
 
