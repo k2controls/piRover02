@@ -28,15 +28,10 @@
 - [11/13/2025](https://nmc.zoom.us/rec/share/f4z1nPADJ4yfYq_7pCFcmCs5xvA4x2DvZai5k6SgYpdd-nplPp3wZ4CiMozY4KTd.F9vBVohr8dv4E2Qm)
 - [11/18/2025](https://nmc.zoom.us/rec/share/zmu00JG4HJzqYzZcUZNZfpGrub5KaBq4CAfOWw3qXm6demZulDmFtjeJDsV0riM9.oviKA5W__X3ZNDh1) 
 - [11/20/2025](https://nmc.zoom.us/rec/share/_u1QIGQ3cNDqBeAu-wpg4iHxdqZC6LCCyN1LwTdPvnQXTJZbUgokIWAXduSUUFvR.z5PHVidgokAFcIsY) 
-
+- [11/25/2025]()    
+- [12/02/2025](https://nmc.zoom.us/rec/share/JWeLCF6OuYeQVP6duwLU5bKcNjD4YNcEP4er1kkZQErk9KOm2lq2bSIstWtgNXZF.-ytnPNUVVjwZ43hJ)
 
 <!--
-
-W14
-- [11/25/2025]()    P03 part 1
-
-w15
-- [12/02/2025]()    P03 review, PE review, Smart phon app intro
 - [12/04/2025]()    PE Exam setup, summary test, part 2 assigned
 
 w16
