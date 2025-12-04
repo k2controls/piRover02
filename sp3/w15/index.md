@@ -51,12 +51,27 @@ layout: default
   
 **Session 2**
 
-<!-- - Python Certification Test 
+- Python Certification Test 
   - [Preparation/Process](cert_test_directions/index.md)
     - Voucher Numbers - See PE: Certification assign link. Open to view comment. Copy voucher number.
     - Do system check prior to exam time. Use NMC workstation if in doubt.
-    - Deadline to post PE Certification image is next Week 15 Session 2. -->
+    - Deadline to post PE Certification image is next Week 15 Session 2 (Thursday).
+- P03 Part 2
+  - Video and solution submitted by Tuesday, Dec 9
+  - Submit video demonstrating smartphone screen below with all functionality enabled on your piRover.
+![alt text](../w16/smartphone_control_screen.jpg)
+  - Submit P03 Part 2 coding to the course link provided. This code must be in a zip file with correct structure and links to enable your code to build and run when extracted. See Part 1 feedback for issues related to this requirement.
 
+- PE Review
+  - Collections
+    - Tuples
+    - Lists
+    - Dictionaries
+  - Functions
+    - scope
+    - params - positional vs named
+    - recursive
+  - Exceptions
 
 ---
 
@@ -64,5 +79,5 @@ layout: default
 - None
 
 #### Next week: ####
-    - Video/Demo - app_smartphone with code submitted as support
-    - PE Certification test results
+    - Session 1: Video/Demo - app_smartphone with code submitted as support
+    - Session 2: PE Certification test results

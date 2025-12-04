@@ -23,5 +23,5 @@ layout: default
 
 ### Assignments
 - weekFinal code
-- Video/Demo - app_smartphone with extension
+- Video/Demo - app_smartphone
 - PE Certification test results
