@@ -79,5 +79,6 @@ layout: default
 - None
 
 #### Next week: ####
+
     - Session 1: Video/Demo - app_smartphone with code submitted as support
     - Session 2: PE Certification test results
