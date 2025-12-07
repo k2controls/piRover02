@@ -30,9 +30,11 @@
 - [11/20/2025](https://nmc.zoom.us/rec/share/_u1QIGQ3cNDqBeAu-wpg4iHxdqZC6LCCyN1LwTdPvnQXTJZbUgokIWAXduSUUFvR.z5PHVidgokAFcIsY) 
 - [11/25/2025]()    
 - [12/02/2025](https://nmc.zoom.us/rec/share/JWeLCF6OuYeQVP6duwLU5bKcNjD4YNcEP4er1kkZQErk9KOm2lq2bSIstWtgNXZF.-ytnPNUVVjwZ43hJ)
+- [12/04/2025](https://nmc.zoom.us/rec/share/2drV43A0rFv59bzWSUd3PDQ-6ta4XbpF8vUZcLr3E1e_oESEo4WmNDTA5nVZHMJp.qu_rDRLmhLWTsXUX)
+
 
 <!--
-- [12/04/2025]()    PE Exam setup, summary test, part 2 assigned
+
 
 w16
 - [12/09/2025]()    P03 part 2 video demo - no class
